@@ -1,0 +1,2001 @@
+fur_color,height,weight,eye_color,prehistoric
+calico,182 cm,69 kg,brown,FALSE
+white,173 cm,236 kg,black,TRUE
+red,240 cm,205 kg,blue,TRUE
+orange,195 cm,67 kg,black,FALSE
+dark grey,224 cm,289 kg,black,TRUE
+grey,259 cm,75 kg,green,FALSE
+dark grey,254 cm,229 kg,black,TRUE
+brown,191 cm,103 kg,brown,FALSE
+brown,160 cm,140 kg,blue,FALSE
+orange,266 cm,175 kg,black,FALSE
+calico,179 cm,106 kg,green,FALSE
+dark grey,210 cm,71 kg,blue,FALSE
+calico,198 cm,198 kg,blue,TRUE
+calico,218 cm,103 kg,brown,FALSE
+calico,216 cm,83 kg,green,FALSE
+dark grey,219 cm,85 kg,blue,FALSE
+grey,205 cm,128 kg,brown,FALSE
+grey,274 cm,244 kg,brown,TRUE
+grey,191 cm,243 kg,blue,TRUE
+dark grey,221 cm,205 kg,blue,TRUE
+red,284 cm,239 kg,blue,TRUE
+white,172 cm,148 kg,green,TRUE
+dark grey,187 cm,164 kg,black,FALSE
+dark grey,222 cm,284 kg,black,TRUE
+grey,164 cm,103 kg,green,FALSE
+red,280 cm,72 kg,brown,TRUE
+dark grey,188 cm,122 kg,green,FALSE
+orange,266 cm,198 kg,green,TRUE
+orange,243 cm,260 kg,blue,TRUE
+white,191 cm,154 kg,black,TRUE
+orange,212 cm,179 kg,brown,FALSE
+calico,181 cm,68 kg,blue,FALSE
+brown,224 cm,204 kg,brown,TRUE
+red,259 cm,265 kg,brown,TRUE
+dark grey,282 cm,282 kg,brown,TRUE
+calico,210 cm,71 kg,green,FALSE
+brown,256 cm,65 kg,black,FALSE
+calico,243 cm,199 kg,black,TRUE
+calico,207 cm,170 kg,green,FALSE
+red,223 cm,224 kg,black,TRUE
+red,265 cm,175 kg,brown,FALSE
+brown,192 cm,166 kg,black,FALSE
+dark grey,202 cm,102 kg,blue,FALSE
+dark grey,249 cm,275 kg,black,TRUE
+orange,278 cm,236 kg,brown,TRUE
+orange,185 cm,105 kg,brown,FALSE
+calico,179 cm,253 kg,black,TRUE
+brown,260 cm,260 kg,black,TRUE
+calico,234 cm,84 kg,black,FALSE
+white,258 cm,111 kg,green,TRUE
+dark grey,286 cm,234 kg,green,TRUE
+dark grey,217 cm,188 kg,black,TRUE
+dark grey,218 cm,241 kg,brown,TRUE
+calico,264 cm,125 kg,blue,FALSE
+grey,162 cm,242 kg,black,TRUE
+orange,199 cm,110 kg,black,FALSE
+orange,222 cm,239 kg,blue,TRUE
+white,166 cm,70 kg,black,TRUE
+calico,178 cm,76 kg,brown,FALSE
+orange,237 cm,225 kg,blue,TRUE
+calico,285 cm,160 kg,green,TRUE
+white,213 cm,98 kg,brown,TRUE
+red,221 cm,204 kg,black,TRUE
+red,277 cm,91 kg,brown,TRUE
+orange,263 cm,179 kg,blue,FALSE
+brown,222 cm,197 kg,black,TRUE
+grey,245 cm,225 kg,blue,TRUE
+dark grey,220 cm,147 kg,black,FALSE
+calico,284 cm,129 kg,blue,TRUE
+grey,198 cm,218 kg,green,TRUE
+white,171 cm,112 kg,green,TRUE
+calico,220 cm,279 kg,green,TRUE
+calico,174 cm,61 kg,green,FALSE
+orange,284 cm,167 kg,black,TRUE
+orange,203 cm,237 kg,blue,TRUE
+brown,180 cm,148 kg,black,FALSE
+grey,201 cm,191 kg,black,TRUE
+red,246 cm,79 kg,brown,FALSE
+dark grey,161 cm,72 kg,black,FALSE
+red,214 cm,209 kg,black,TRUE
+brown,170 cm,188 kg,green,TRUE
+white,222 cm,231 kg,green,TRUE
+calico,193 cm,91 kg,brown,FALSE
+brown,235 cm,267 kg,brown,TRUE
+grey,273 cm,143 kg,black,TRUE
+red,209 cm,123 kg,blue,FALSE
+calico,217 cm,127 kg,black,FALSE
+grey,235 cm,228 kg,brown,TRUE
+white,193 cm,96 kg,black,TRUE
+brown,235 cm,207 kg,brown,TRUE
+dark grey,176 cm,192 kg,blue,TRUE
+white,262 cm,62 kg,black,TRUE
+grey,282 cm,99 kg,black,TRUE
+orange,160 cm,173 kg,brown,FALSE
+grey,182 cm,202 kg,black,TRUE
+brown,250 cm,258 kg,brown,TRUE
+orange,205 cm,187 kg,blue,TRUE
+red,289 cm,214 kg,black,TRUE
+red,248 cm,96 kg,brown,FALSE
+brown,281 cm,251 kg,green,TRUE
+white,246 cm,278 kg,green,TRUE
+dark grey,190 cm,169 kg,green,FALSE
+orange,263 cm,110 kg,blue,FALSE
+brown,188 cm,115 kg,blue,FALSE
+red,251 cm,148 kg,brown,FALSE
+dark grey,261 cm,210 kg,green,TRUE
+grey,264 cm,208 kg,green,TRUE
+red,213 cm,148 kg,black,FALSE
+white,218 cm,154 kg,blue,TRUE
+orange,244 cm,145 kg,blue,FALSE
+red,276 cm,197 kg,black,TRUE
+dark grey,206 cm,239 kg,green,TRUE
+grey,166 cm,203 kg,blue,TRUE
+grey,189 cm,157 kg,blue,FALSE
+red,289 cm,218 kg,brown,TRUE
+dark grey,164 cm,117 kg,blue,FALSE
+dark grey,210 cm,104 kg,green,FALSE
+calico,207 cm,252 kg,blue,TRUE
+calico,272 cm,200 kg,blue,TRUE
+calico,224 cm,269 kg,black,TRUE
+orange,182 cm,136 kg,black,FALSE
+grey,272 cm,232 kg,green,TRUE
+orange,284 cm,235 kg,green,TRUE
+calico,227 cm,69 kg,green,FALSE
+orange,241 cm,268 kg,blue,TRUE
+grey,173 cm,133 kg,brown,FALSE
+grey,165 cm,117 kg,brown,FALSE
+orange,195 cm,206 kg,green,TRUE
+dark grey,192 cm,154 kg,blue,FALSE
+dark grey,178 cm,99 kg,brown,FALSE
+calico,164 cm,214 kg,blue,TRUE
+brown,261 cm,180 kg,green,FALSE
+white,160 cm,273 kg,black,TRUE
+orange,208 cm,137 kg,black,FALSE
+white,229 cm,221 kg,green,TRUE
+dark grey,216 cm,273 kg,black,TRUE
+orange,282 cm,63 kg,black,TRUE
+red,187 cm,290 kg,brown,TRUE
+white,241 cm,128 kg,brown,TRUE
+dark grey,228 cm,187 kg,black,TRUE
+calico,173 cm,150 kg,green,FALSE
+grey,199 cm,182 kg,black,TRUE
+white,257 cm,225 kg,black,TRUE
+calico,228 cm,129 kg,brown,FALSE
+orange,265 cm,230 kg,brown,TRUE
+dark grey,166 cm,155 kg,black,FALSE
+dark grey,237 cm,110 kg,green,FALSE
+white,224 cm,169 kg,black,TRUE
+white,198 cm,248 kg,black,TRUE
+calico,290 cm,189 kg,green,TRUE
+orange,228 cm,109 kg,green,FALSE
+brown,188 cm,259 kg,brown,TRUE
+white,243 cm,270 kg,green,TRUE
+dark grey,278 cm,127 kg,black,TRUE
+dark grey,266 cm,262 kg,blue,TRUE
+calico,220 cm,159 kg,blue,FALSE
+white,275 cm,80 kg,brown,TRUE
+grey,260 cm,128 kg,blue,FALSE
+brown,210 cm,171 kg,black,FALSE
+brown,169 cm,190 kg,green,TRUE
+dark grey,223 cm,157 kg,green,FALSE
+white,195 cm,136 kg,green,TRUE
+grey,191 cm,64 kg,brown,FALSE
+dark grey,245 cm,212 kg,black,TRUE
+brown,170 cm,90 kg,brown,FALSE
+white,270 cm,141 kg,blue,TRUE
+red,173 cm,237 kg,blue,TRUE
+calico,238 cm,105 kg,green,FALSE
+dark grey,182 cm,283 kg,brown,TRUE
+calico,197 cm,69 kg,brown,FALSE
+calico,225 cm,104 kg,blue,FALSE
+dark grey,180 cm,196 kg,brown,TRUE
+dark grey,274 cm,68 kg,blue,TRUE
+red,273 cm,90 kg,black,TRUE
+red,191 cm,206 kg,black,TRUE
+dark grey,178 cm,233 kg,black,TRUE
+calico,271 cm,144 kg,black,TRUE
+orange,171 cm,144 kg,black,FALSE
+orange,248 cm,225 kg,black,TRUE
+dark grey,281 cm,223 kg,black,TRUE
+grey,237 cm,239 kg,green,TRUE
+calico,195 cm,111 kg,green,FALSE
+white,282 cm,206 kg,black,TRUE
+brown,284 cm,206 kg,blue,TRUE
+grey,165 cm,126 kg,blue,FALSE
+orange,180 cm,105 kg,brown,FALSE
+brown,167 cm,176 kg,black,FALSE
+white,225 cm,108 kg,black,TRUE
+grey,166 cm,187 kg,green,TRUE
+calico,175 cm,102 kg,brown,FALSE
+dark grey,228 cm,260 kg,blue,TRUE
+calico,248 cm,82 kg,brown,FALSE
+calico,242 cm,77 kg,black,FALSE
+grey,264 cm,95 kg,black,FALSE
+white,249 cm,139 kg,brown,TRUE
+dark grey,189 cm,281 kg,green,TRUE
+white,249 cm,118 kg,blue,TRUE
+white,215 cm,143 kg,brown,TRUE
+dark grey,257 cm,66 kg,blue,FALSE
+grey,285 cm,104 kg,black,TRUE
+orange,210 cm,148 kg,green,FALSE
+red,225 cm,233 kg,brown,TRUE
+grey,223 cm,77 kg,blue,FALSE
+orange,259 cm,167 kg,brown,FALSE
+white,250 cm,90 kg,green,TRUE
+dark grey,225 cm,111 kg,brown,FALSE
+red,269 cm,271 kg,black,TRUE
+red,193 cm,210 kg,brown,TRUE
+red,255 cm,181 kg,brown,TRUE
+grey,170 cm,101 kg,brown,FALSE
+brown,184 cm,142 kg,blue,FALSE
+red,239 cm,272 kg,black,TRUE
+dark grey,207 cm,203 kg,black,TRUE
+grey,202 cm,147 kg,blue,FALSE
+orange,262 cm,228 kg,black,TRUE
+orange,250 cm,102 kg,black,FALSE
+dark grey,250 cm,281 kg,green,TRUE
+orange,257 cm,121 kg,black,FALSE
+calico,213 cm,224 kg,blue,TRUE
+brown,234 cm,235 kg,brown,TRUE
+red,201 cm,89 kg,green,FALSE
+brown,173 cm,98 kg,green,FALSE
+grey,246 cm,228 kg,brown,TRUE
+dark grey,190 cm,184 kg,green,TRUE
+red,289 cm,231 kg,brown,TRUE
+white,251 cm,244 kg,green,TRUE
+white,267 cm,67 kg,black,TRUE
+dark grey,166 cm,87 kg,blue,FALSE
+grey,286 cm,250 kg,blue,TRUE
+red,182 cm,140 kg,blue,FALSE
+dark grey,228 cm,60 kg,black,FALSE
+dark grey,204 cm,167 kg,brown,FALSE
+grey,255 cm,202 kg,brown,TRUE
+brown,187 cm,148 kg,black,FALSE
+white,172 cm,242 kg,blue,TRUE
+grey,249 cm,110 kg,blue,FALSE
+grey,182 cm,144 kg,brown,FALSE
+brown,160 cm,145 kg,blue,FALSE
+white,215 cm,85 kg,blue,TRUE
+brown,273 cm,169 kg,blue,TRUE
+dark grey,211 cm,63 kg,black,FALSE
+white,264 cm,276 kg,brown,TRUE
+red,213 cm,226 kg,green,TRUE
+grey,173 cm,90 kg,black,FALSE
+red,164 cm,233 kg,black,TRUE
+white,216 cm,278 kg,blue,TRUE
+white,181 cm,84 kg,blue,TRUE
+white,184 cm,269 kg,brown,TRUE
+brown,284 cm,177 kg,black,TRUE
+white,287 cm,280 kg,brown,TRUE
+calico,165 cm,164 kg,black,FALSE
+grey,288 cm,260 kg,blue,TRUE
+orange,226 cm,150 kg,green,FALSE
+red,235 cm,120 kg,blue,FALSE
+brown,223 cm,101 kg,brown,FALSE
+dark grey,203 cm,221 kg,blue,TRUE
+grey,178 cm,94 kg,black,FALSE
+brown,289 cm,165 kg,brown,TRUE
+orange,206 cm,89 kg,green,FALSE
+calico,162 cm,86 kg,green,FALSE
+white,287 cm,187 kg,black,TRUE
+grey,225 cm,168 kg,brown,FALSE
+calico,232 cm,143 kg,blue,FALSE
+calico,273 cm,223 kg,brown,TRUE
+red,196 cm,195 kg,brown,TRUE
+red,164 cm,113 kg,blue,FALSE
+white,214 cm,276 kg,black,TRUE
+grey,187 cm,284 kg,green,TRUE
+white,260 cm,158 kg,blue,TRUE
+calico,268 cm,203 kg,green,TRUE
+orange,207 cm,187 kg,black,TRUE
+red,234 cm,222 kg,black,TRUE
+brown,177 cm,197 kg,green,TRUE
+white,221 cm,276 kg,black,TRUE
+dark grey,287 cm,150 kg,brown,TRUE
+red,266 cm,213 kg,blue,TRUE
+orange,224 cm,74 kg,green,FALSE
+brown,255 cm,149 kg,blue,FALSE
+brown,223 cm,158 kg,black,FALSE
+grey,213 cm,74 kg,brown,FALSE
+dark grey,164 cm,255 kg,black,TRUE
+grey,245 cm,219 kg,green,TRUE
+calico,256 cm,196 kg,black,TRUE
+grey,165 cm,210 kg,brown,TRUE
+white,195 cm,249 kg,black,TRUE
+brown,281 cm,219 kg,black,TRUE
+white,220 cm,135 kg,brown,TRUE
+red,282 cm,173 kg,blue,TRUE
+brown,201 cm,161 kg,brown,FALSE
+red,262 cm,73 kg,brown,FALSE
+grey,231 cm,104 kg,brown,FALSE
+orange,250 cm,200 kg,brown,TRUE
+brown,209 cm,206 kg,brown,TRUE
+dark grey,224 cm,187 kg,brown,TRUE
+calico,249 cm,130 kg,green,FALSE
+orange,234 cm,281 kg,black,TRUE
+white,238 cm,163 kg,blue,TRUE
+red,229 cm,93 kg,green,FALSE
+dark grey,185 cm,95 kg,black,FALSE
+red,273 cm,131 kg,blue,TRUE
+white,211 cm,282 kg,green,TRUE
+white,168 cm,146 kg,black,TRUE
+orange,254 cm,76 kg,black,FALSE
+white,278 cm,225 kg,blue,TRUE
+grey,243 cm,183 kg,blue,TRUE
+dark grey,176 cm,98 kg,brown,FALSE
+red,200 cm,191 kg,green,TRUE
+white,202 cm,268 kg,brown,TRUE
+grey,241 cm,172 kg,blue,FALSE
+white,172 cm,187 kg,green,TRUE
+brown,248 cm,199 kg,blue,TRUE
+red,254 cm,203 kg,blue,TRUE
+orange,188 cm,267 kg,blue,TRUE
+orange,203 cm,190 kg,green,TRUE
+white,193 cm,81 kg,blue,TRUE
+red,193 cm,103 kg,green,FALSE
+white,269 cm,218 kg,green,TRUE
+calico,184 cm,109 kg,black,FALSE
+orange,227 cm,262 kg,green,TRUE
+orange,265 cm,236 kg,black,TRUE
+calico,253 cm,129 kg,brown,FALSE
+calico,236 cm,237 kg,brown,TRUE
+brown,177 cm,263 kg,brown,TRUE
+calico,244 cm,146 kg,blue,FALSE
+orange,179 cm,267 kg,green,TRUE
+grey,235 cm,209 kg,black,TRUE
+orange,168 cm,173 kg,blue,FALSE
+grey,264 cm,157 kg,green,FALSE
+orange,181 cm,96 kg,brown,FALSE
+white,189 cm,276 kg,blue,TRUE
+orange,241 cm,125 kg,green,FALSE
+orange,176 cm,213 kg,blue,TRUE
+white,270 cm,191 kg,black,TRUE
+grey,202 cm,170 kg,blue,FALSE
+red,248 cm,148 kg,black,FALSE
+brown,259 cm,282 kg,brown,TRUE
+orange,289 cm,86 kg,green,TRUE
+dark grey,290 cm,235 kg,brown,TRUE
+grey,218 cm,272 kg,black,TRUE
+red,164 cm,222 kg,black,TRUE
+brown,282 cm,262 kg,black,TRUE
+grey,196 cm,140 kg,green,FALSE
+red,274 cm,124 kg,black,TRUE
+brown,231 cm,205 kg,blue,TRUE
+brown,234 cm,220 kg,brown,TRUE
+grey,259 cm,174 kg,brown,FALSE
+dark grey,188 cm,220 kg,black,TRUE
+red,220 cm,143 kg,green,FALSE
+white,288 cm,156 kg,brown,TRUE
+calico,261 cm,66 kg,blue,FALSE
+white,283 cm,99 kg,brown,TRUE
+dark grey,260 cm,156 kg,green,FALSE
+calico,240 cm,159 kg,brown,FALSE
+calico,235 cm,129 kg,black,FALSE
+calico,188 cm,234 kg,black,TRUE
+red,224 cm,277 kg,brown,TRUE
+brown,256 cm,158 kg,brown,FALSE
+dark grey,202 cm,149 kg,blue,FALSE
+calico,289 cm,242 kg,green,TRUE
+grey,288 cm,62 kg,black,TRUE
+red,181 cm,250 kg,green,TRUE
+grey,263 cm,221 kg,black,TRUE
+dark grey,217 cm,85 kg,blue,FALSE
+orange,258 cm,203 kg,blue,TRUE
+orange,177 cm,146 kg,blue,FALSE
+dark grey,179 cm,266 kg,green,TRUE
+white,172 cm,280 kg,blue,TRUE
+orange,240 cm,155 kg,brown,FALSE
+orange,263 cm,279 kg,green,TRUE
+dark grey,186 cm,201 kg,brown,TRUE
+calico,272 cm,142 kg,green,TRUE
+red,250 cm,90 kg,brown,FALSE
+calico,290 cm,199 kg,brown,TRUE
+dark grey,223 cm,207 kg,blue,TRUE
+red,249 cm,230 kg,green,TRUE
+calico,260 cm,248 kg,blue,TRUE
+red,209 cm,138 kg,green,FALSE
+brown,209 cm,116 kg,black,FALSE
+grey,205 cm,78 kg,black,FALSE
+white,227 cm,164 kg,black,TRUE
+calico,165 cm,285 kg,brown,TRUE
+brown,251 cm,155 kg,green,FALSE
+dark grey,219 cm,235 kg,brown,TRUE
+orange,220 cm,152 kg,brown,FALSE
+dark grey,239 cm,271 kg,green,TRUE
+calico,285 cm,249 kg,blue,TRUE
+brown,210 cm,223 kg,green,TRUE
+brown,266 cm,172 kg,blue,FALSE
+brown,283 cm,221 kg,green,TRUE
+orange,167 cm,114 kg,blue,FALSE
+white,272 cm,223 kg,blue,TRUE
+red,177 cm,251 kg,green,TRUE
+orange,193 cm,202 kg,black,TRUE
+calico,258 cm,236 kg,green,TRUE
+brown,209 cm,162 kg,brown,FALSE
+grey,283 cm,282 kg,green,TRUE
+brown,210 cm,183 kg,green,TRUE
+calico,186 cm,266 kg,blue,TRUE
+red,264 cm,166 kg,green,FALSE
+orange,244 cm,191 kg,brown,TRUE
+orange,189 cm,164 kg,brown,FALSE
+red,220 cm,225 kg,green,TRUE
+red,211 cm,119 kg,black,FALSE
+dark grey,234 cm,71 kg,blue,FALSE
+grey,254 cm,185 kg,brown,TRUE
+grey,248 cm,171 kg,black,FALSE
+white,203 cm,256 kg,green,TRUE
+orange,262 cm,116 kg,blue,FALSE
+grey,264 cm,155 kg,black,FALSE
+orange,257 cm,218 kg,blue,TRUE
+orange,238 cm,82 kg,blue,FALSE
+brown,188 cm,205 kg,blue,TRUE
+white,258 cm,253 kg,brown,TRUE
+white,237 cm,202 kg,black,TRUE
+red,162 cm,142 kg,brown,FALSE
+grey,286 cm,148 kg,blue,TRUE
+red,231 cm,176 kg,blue,FALSE
+brown,247 cm,262 kg,green,TRUE
+brown,225 cm,167 kg,green,FALSE
+calico,285 cm,73 kg,green,TRUE
+grey,278 cm,227 kg,green,TRUE
+white,268 cm,158 kg,green,TRUE
+calico,242 cm,170 kg,blue,FALSE
+orange,184 cm,276 kg,green,TRUE
+dark grey,272 cm,83 kg,blue,TRUE
+dark grey,254 cm,243 kg,brown,TRUE
+brown,214 cm,70 kg,black,FALSE
+white,196 cm,105 kg,brown,TRUE
+red,252 cm,230 kg,brown,TRUE
+orange,222 cm,70 kg,black,FALSE
+dark grey,286 cm,285 kg,green,TRUE
+red,217 cm,161 kg,brown,FALSE
+white,202 cm,154 kg,black,TRUE
+calico,201 cm,82 kg,brown,FALSE
+calico,222 cm,90 kg,brown,FALSE
+red,277 cm,253 kg,black,TRUE
+grey,234 cm,141 kg,brown,FALSE
+red,243 cm,233 kg,blue,TRUE
+dark grey,264 cm,277 kg,black,TRUE
+white,222 cm,277 kg,green,TRUE
+brown,177 cm,252 kg,blue,TRUE
+dark grey,200 cm,223 kg,green,TRUE
+white,199 cm,288 kg,black,TRUE
+calico,165 cm,115 kg,green,FALSE
+white,249 cm,76 kg,black,TRUE
+red,257 cm,267 kg,brown,TRUE
+orange,241 cm,79 kg,black,FALSE
+dark grey,172 cm,269 kg,blue,TRUE
+red,237 cm,135 kg,blue,FALSE
+red,160 cm,240 kg,green,TRUE
+white,187 cm,137 kg,brown,TRUE
+white,174 cm,170 kg,blue,TRUE
+calico,278 cm,236 kg,black,TRUE
+red,223 cm,78 kg,blue,FALSE
+grey,189 cm,257 kg,brown,TRUE
+brown,202 cm,276 kg,blue,TRUE
+brown,288 cm,277 kg,brown,TRUE
+dark grey,194 cm,247 kg,brown,TRUE
+dark grey,272 cm,220 kg,black,TRUE
+orange,269 cm,194 kg,brown,TRUE
+grey,195 cm,220 kg,blue,TRUE
+red,247 cm,281 kg,black,TRUE
+brown,208 cm,249 kg,black,TRUE
+dark grey,283 cm,105 kg,blue,TRUE
+calico,223 cm,230 kg,brown,TRUE
+grey,217 cm,204 kg,green,TRUE
+brown,219 cm,205 kg,blue,TRUE
+white,221 cm,135 kg,black,TRUE
+white,264 cm,243 kg,green,TRUE
+red,213 cm,182 kg,brown,TRUE
+brown,187 cm,106 kg,blue,FALSE
+white,234 cm,110 kg,brown,TRUE
+red,253 cm,187 kg,brown,TRUE
+dark grey,264 cm,75 kg,black,FALSE
+orange,242 cm,72 kg,brown,FALSE
+calico,281 cm,281 kg,green,TRUE
+grey,165 cm,283 kg,blue,TRUE
+calico,216 cm,260 kg,black,TRUE
+brown,167 cm,204 kg,green,TRUE
+grey,183 cm,246 kg,blue,TRUE
+brown,262 cm,196 kg,brown,TRUE
+red,227 cm,214 kg,green,TRUE
+grey,275 cm,118 kg,black,TRUE
+dark grey,176 cm,218 kg,blue,TRUE
+grey,233 cm,249 kg,blue,TRUE
+grey,161 cm,66 kg,green,FALSE
+orange,215 cm,200 kg,green,TRUE
+white,226 cm,152 kg,green,TRUE
+white,175 cm,187 kg,blue,TRUE
+dark grey,277 cm,221 kg,green,TRUE
+red,253 cm,88 kg,blue,FALSE
+grey,171 cm,215 kg,green,TRUE
+calico,189 cm,88 kg,brown,FALSE
+calico,164 cm,269 kg,brown,TRUE
+brown,256 cm,187 kg,brown,TRUE
+orange,290 cm,205 kg,brown,TRUE
+dark grey,187 cm,235 kg,black,TRUE
+red,228 cm,129 kg,brown,FALSE
+brown,287 cm,107 kg,blue,TRUE
+calico,234 cm,95 kg,black,FALSE
+calico,240 cm,276 kg,blue,TRUE
+calico,216 cm,255 kg,black,TRUE
+brown,247 cm,87 kg,black,FALSE
+calico,210 cm,92 kg,brown,FALSE
+white,287 cm,199 kg,blue,TRUE
+calico,264 cm,165 kg,green,FALSE
+red,223 cm,110 kg,blue,FALSE
+dark grey,260 cm,242 kg,black,TRUE
+brown,223 cm,190 kg,green,TRUE
+grey,214 cm,96 kg,blue,FALSE
+red,175 cm,64 kg,black,FALSE
+dark grey,194 cm,93 kg,brown,FALSE
+calico,170 cm,105 kg,black,FALSE
+calico,255 cm,161 kg,blue,FALSE
+white,282 cm,274 kg,blue,TRUE
+white,233 cm,115 kg,brown,TRUE
+grey,184 cm,115 kg,blue,FALSE
+white,206 cm,68 kg,green,TRUE
+red,228 cm,127 kg,black,FALSE
+orange,224 cm,126 kg,blue,FALSE
+white,255 cm,86 kg,brown,TRUE
+white,231 cm,243 kg,black,TRUE
+grey,193 cm,122 kg,brown,FALSE
+grey,273 cm,211 kg,blue,TRUE
+calico,260 cm,220 kg,black,TRUE
+grey,206 cm,257 kg,black,TRUE
+calico,195 cm,269 kg,green,TRUE
+calico,202 cm,89 kg,black,FALSE
+grey,220 cm,150 kg,black,FALSE
+red,256 cm,122 kg,green,FALSE
+white,229 cm,259 kg,green,TRUE
+brown,231 cm,100 kg,blue,FALSE
+white,184 cm,121 kg,black,TRUE
+orange,259 cm,253 kg,brown,TRUE
+dark grey,202 cm,244 kg,green,TRUE
+red,212 cm,178 kg,black,FALSE
+red,216 cm,62 kg,blue,FALSE
+white,237 cm,188 kg,green,TRUE
+calico,192 cm,190 kg,black,TRUE
+white,253 cm,93 kg,blue,TRUE
+orange,264 cm,231 kg,blue,TRUE
+grey,217 cm,155 kg,black,FALSE
+dark grey,166 cm,164 kg,black,FALSE
+calico,160 cm,145 kg,green,FALSE
+calico,252 cm,218 kg,brown,TRUE
+orange,251 cm,61 kg,blue,FALSE
+red,204 cm,233 kg,green,TRUE
+orange,261 cm,287 kg,brown,TRUE
+grey,161 cm,84 kg,green,FALSE
+brown,204 cm,123 kg,blue,FALSE
+brown,214 cm,87 kg,black,FALSE
+brown,223 cm,163 kg,green,FALSE
+dark grey,161 cm,215 kg,black,TRUE
+brown,184 cm,261 kg,black,TRUE
+orange,257 cm,245 kg,black,TRUE
+brown,241 cm,281 kg,black,TRUE
+calico,234 cm,136 kg,black,FALSE
+dark grey,185 cm,211 kg,blue,TRUE
+brown,258 cm,102 kg,black,FALSE
+brown,263 cm,122 kg,brown,FALSE
+grey,175 cm,233 kg,black,TRUE
+brown,258 cm,147 kg,blue,FALSE
+calico,197 cm,182 kg,blue,TRUE
+calico,228 cm,168 kg,green,FALSE
+red,248 cm,93 kg,green,FALSE
+grey,225 cm,196 kg,black,TRUE
+brown,249 cm,143 kg,black,FALSE
+grey,174 cm,131 kg,green,FALSE
+orange,178 cm,111 kg,black,FALSE
+dark grey,193 cm,277 kg,blue,TRUE
+grey,216 cm,72 kg,brown,FALSE
+calico,192 cm,228 kg,brown,TRUE
+calico,231 cm,172 kg,blue,FALSE
+brown,279 cm,124 kg,green,TRUE
+calico,230 cm,127 kg,brown,FALSE
+red,264 cm,189 kg,blue,TRUE
+red,195 cm,72 kg,green,FALSE
+grey,192 cm,61 kg,black,FALSE
+grey,187 cm,173 kg,green,FALSE
+grey,206 cm,258 kg,black,TRUE
+dark grey,274 cm,160 kg,blue,TRUE
+white,218 cm,258 kg,green,TRUE
+orange,239 cm,113 kg,blue,FALSE
+grey,196 cm,220 kg,brown,TRUE
+orange,250 cm,179 kg,brown,FALSE
+brown,233 cm,169 kg,blue,FALSE
+dark grey,204 cm,189 kg,black,TRUE
+grey,181 cm,102 kg,green,FALSE
+grey,160 cm,143 kg,brown,FALSE
+orange,264 cm,227 kg,blue,TRUE
+red,204 cm,236 kg,blue,TRUE
+brown,203 cm,201 kg,blue,TRUE
+brown,252 cm,187 kg,blue,TRUE
+dark grey,172 cm,125 kg,blue,FALSE
+red,283 cm,257 kg,blue,TRUE
+red,195 cm,150 kg,blue,FALSE
+brown,200 cm,169 kg,blue,FALSE
+orange,187 cm,182 kg,blue,TRUE
+grey,234 cm,145 kg,black,FALSE
+red,162 cm,244 kg,black,TRUE
+red,221 cm,148 kg,brown,FALSE
+brown,277 cm,268 kg,blue,TRUE
+dark grey,240 cm,259 kg,brown,TRUE
+grey,208 cm,150 kg,green,FALSE
+white,218 cm,272 kg,green,TRUE
+calico,270 cm,97 kg,blue,FALSE
+brown,242 cm,109 kg,black,FALSE
+white,177 cm,232 kg,black,TRUE
+orange,168 cm,136 kg,blue,FALSE
+brown,274 cm,66 kg,black,TRUE
+orange,242 cm,189 kg,green,TRUE
+grey,184 cm,242 kg,blue,TRUE
+calico,277 cm,191 kg,black,TRUE
+white,168 cm,90 kg,black,TRUE
+orange,261 cm,68 kg,green,FALSE
+calico,246 cm,89 kg,blue,FALSE
+dark grey,165 cm,147 kg,black,FALSE
+red,289 cm,152 kg,green,TRUE
+grey,256 cm,92 kg,blue,FALSE
+red,256 cm,136 kg,black,FALSE
+orange,282 cm,151 kg,blue,TRUE
+red,184 cm,70 kg,black,FALSE
+orange,271 cm,239 kg,blue,TRUE
+dark grey,282 cm,139 kg,blue,TRUE
+brown,194 cm,70 kg,brown,FALSE
+dark grey,177 cm,186 kg,green,TRUE
+white,174 cm,222 kg,black,TRUE
+red,215 cm,266 kg,black,TRUE
+calico,283 cm,193 kg,blue,TRUE
+white,250 cm,155 kg,blue,TRUE
+orange,233 cm,98 kg,blue,FALSE
+brown,168 cm,231 kg,black,TRUE
+grey,180 cm,246 kg,blue,TRUE
+brown,227 cm,214 kg,green,TRUE
+dark grey,279 cm,276 kg,green,TRUE
+orange,202 cm,138 kg,green,FALSE
+grey,261 cm,176 kg,brown,FALSE
+dark grey,221 cm,147 kg,brown,FALSE
+white,246 cm,197 kg,brown,TRUE
+grey,197 cm,126 kg,brown,FALSE
+orange,262 cm,111 kg,green,FALSE
+red,188 cm,203 kg,blue,TRUE
+brown,235 cm,65 kg,brown,FALSE
+orange,205 cm,134 kg,black,FALSE
+dark grey,212 cm,249 kg,brown,TRUE
+red,192 cm,90 kg,blue,FALSE
+calico,288 cm,127 kg,blue,TRUE
+white,237 cm,91 kg,black,TRUE
+brown,165 cm,226 kg,green,TRUE
+orange,243 cm,115 kg,blue,FALSE
+red,160 cm,231 kg,green,TRUE
+orange,184 cm,249 kg,brown,TRUE
+red,260 cm,190 kg,brown,TRUE
+white,194 cm,148 kg,black,TRUE
+calico,232 cm,267 kg,green,TRUE
+grey,173 cm,237 kg,green,TRUE
+brown,222 cm,92 kg,blue,FALSE
+brown,216 cm,122 kg,brown,FALSE
+grey,220 cm,286 kg,black,TRUE
+calico,161 cm,235 kg,green,TRUE
+brown,287 cm,230 kg,black,TRUE
+orange,246 cm,264 kg,black,TRUE
+grey,264 cm,159 kg,green,FALSE
+grey,276 cm,187 kg,green,TRUE
+red,278 cm,267 kg,blue,TRUE
+white,245 cm,87 kg,green,TRUE
+calico,164 cm,261 kg,green,TRUE
+orange,238 cm,150 kg,black,FALSE
+dark grey,258 cm,170 kg,black,FALSE
+orange,210 cm,193 kg,green,TRUE
+orange,237 cm,194 kg,blue,TRUE
+red,205 cm,233 kg,black,TRUE
+grey,200 cm,240 kg,black,TRUE
+red,196 cm,86 kg,blue,FALSE
+brown,161 cm,90 kg,brown,FALSE
+white,243 cm,272 kg,blue,TRUE
+red,190 cm,173 kg,black,FALSE
+calico,269 cm,179 kg,green,FALSE
+brown,259 cm,144 kg,black,FALSE
+orange,212 cm,211 kg,blue,TRUE
+grey,269 cm,159 kg,blue,FALSE
+red,282 cm,285 kg,blue,TRUE
+white,283 cm,164 kg,brown,TRUE
+white,278 cm,82 kg,blue,TRUE
+brown,273 cm,190 kg,black,TRUE
+red,182 cm,282 kg,black,TRUE
+grey,214 cm,125 kg,black,FALSE
+red,231 cm,287 kg,blue,TRUE
+red,229 cm,274 kg,blue,TRUE
+red,163 cm,135 kg,brown,FALSE
+white,250 cm,257 kg,black,TRUE
+brown,283 cm,115 kg,brown,TRUE
+dark grey,195 cm,282 kg,black,TRUE
+white,191 cm,77 kg,blue,TRUE
+red,276 cm,132 kg,brown,TRUE
+red,176 cm,252 kg,black,TRUE
+dark grey,197 cm,95 kg,green,FALSE
+grey,284 cm,277 kg,brown,TRUE
+orange,219 cm,74 kg,black,FALSE
+brown,247 cm,247 kg,brown,TRUE
+brown,193 cm,61 kg,blue,FALSE
+dark grey,237 cm,141 kg,black,FALSE
+grey,209 cm,108 kg,green,FALSE
+calico,285 cm,124 kg,blue,TRUE
+dark grey,209 cm,237 kg,brown,TRUE
+white,188 cm,137 kg,black,TRUE
+white,167 cm,258 kg,green,TRUE
+brown,201 cm,104 kg,blue,FALSE
+orange,213 cm,157 kg,black,FALSE
+dark grey,222 cm,242 kg,blue,TRUE
+grey,216 cm,288 kg,brown,TRUE
+brown,244 cm,180 kg,brown,FALSE
+calico,258 cm,183 kg,black,TRUE
+calico,200 cm,181 kg,blue,TRUE
+grey,273 cm,215 kg,blue,TRUE
+grey,172 cm,222 kg,green,TRUE
+orange,173 cm,237 kg,black,TRUE
+red,215 cm,182 kg,black,TRUE
+brown,170 cm,115 kg,black,FALSE
+grey,275 cm,195 kg,green,TRUE
+brown,224 cm,119 kg,blue,FALSE
+calico,258 cm,150 kg,black,FALSE
+dark grey,195 cm,165 kg,green,FALSE
+red,221 cm,275 kg,brown,TRUE
+white,274 cm,150 kg,green,TRUE
+white,236 cm,273 kg,black,TRUE
+dark grey,208 cm,151 kg,black,FALSE
+red,211 cm,74 kg,black,FALSE
+orange,235 cm,92 kg,blue,FALSE
+orange,188 cm,168 kg,brown,FALSE
+orange,179 cm,65 kg,green,FALSE
+calico,272 cm,81 kg,green,TRUE
+grey,207 cm,112 kg,brown,FALSE
+brown,167 cm,170 kg,blue,FALSE
+grey,257 cm,118 kg,brown,FALSE
+grey,258 cm,72 kg,green,FALSE
+dark grey,260 cm,259 kg,brown,TRUE
+calico,283 cm,73 kg,brown,TRUE
+red,200 cm,139 kg,blue,FALSE
+orange,213 cm,258 kg,blue,TRUE
+red,226 cm,143 kg,blue,FALSE
+brown,270 cm,188 kg,black,TRUE
+orange,269 cm,158 kg,black,FALSE
+grey,250 cm,269 kg,black,TRUE
+orange,202 cm,131 kg,brown,FALSE
+white,171 cm,221 kg,green,TRUE
+red,211 cm,258 kg,blue,TRUE
+red,251 cm,170 kg,black,FALSE
+calico,280 cm,268 kg,green,TRUE
+grey,253 cm,243 kg,blue,TRUE
+orange,265 cm,96 kg,black,FALSE
+dark grey,182 cm,124 kg,green,FALSE
+grey,213 cm,202 kg,black,TRUE
+white,222 cm,196 kg,blue,TRUE
+white,168 cm,258 kg,green,TRUE
+calico,279 cm,199 kg,blue,TRUE
+calico,216 cm,260 kg,black,TRUE
+grey,218 cm,276 kg,black,TRUE
+red,225 cm,142 kg,blue,FALSE
+orange,225 cm,225 kg,brown,TRUE
+calico,248 cm,146 kg,black,FALSE
+brown,166 cm,66 kg,green,FALSE
+dark grey,168 cm,77 kg,blue,FALSE
+brown,175 cm,126 kg,black,FALSE
+orange,234 cm,196 kg,blue,TRUE
+red,162 cm,148 kg,blue,FALSE
+orange,230 cm,62 kg,blue,FALSE
+calico,165 cm,114 kg,black,FALSE
+orange,252 cm,63 kg,green,FALSE
+orange,246 cm,251 kg,blue,TRUE
+grey,248 cm,145 kg,brown,FALSE
+calico,265 cm,269 kg,brown,TRUE
+calico,278 cm,158 kg,green,TRUE
+red,247 cm,265 kg,brown,TRUE
+red,290 cm,198 kg,black,TRUE
+white,167 cm,65 kg,green,TRUE
+orange,206 cm,221 kg,blue,TRUE
+calico,283 cm,258 kg,blue,TRUE
+red,189 cm,236 kg,blue,TRUE
+calico,162 cm,147 kg,brown,FALSE
+red,202 cm,91 kg,green,FALSE
+brown,221 cm,97 kg,blue,FALSE
+calico,277 cm,203 kg,brown,TRUE
+calico,265 cm,219 kg,black,TRUE
+dark grey,239 cm,170 kg,green,FALSE
+dark grey,199 cm,269 kg,blue,TRUE
+orange,287 cm,258 kg,blue,TRUE
+dark grey,230 cm,174 kg,black,FALSE
+white,176 cm,253 kg,green,TRUE
+brown,181 cm,135 kg,brown,FALSE
+dark grey,282 cm,83 kg,brown,TRUE
+orange,170 cm,239 kg,green,TRUE
+calico,286 cm,273 kg,black,TRUE
+orange,168 cm,128 kg,green,FALSE
+grey,281 cm,270 kg,green,TRUE
+red,259 cm,199 kg,green,TRUE
+dark grey,206 cm,151 kg,blue,FALSE
+brown,230 cm,94 kg,black,FALSE
+calico,267 cm,175 kg,green,FALSE
+red,279 cm,153 kg,green,TRUE
+brown,197 cm,160 kg,blue,FALSE
+dark grey,166 cm,144 kg,blue,FALSE
+red,172 cm,105 kg,brown,FALSE
+dark grey,228 cm,110 kg,brown,FALSE
+brown,259 cm,65 kg,brown,FALSE
+red,166 cm,133 kg,brown,FALSE
+brown,202 cm,262 kg,green,TRUE
+grey,232 cm,230 kg,brown,TRUE
+grey,266 cm,93 kg,green,FALSE
+orange,241 cm,187 kg,black,TRUE
+brown,226 cm,268 kg,blue,TRUE
+orange,277 cm,169 kg,green,TRUE
+red,246 cm,285 kg,blue,TRUE
+brown,274 cm,99 kg,brown,TRUE
+brown,275 cm,148 kg,blue,TRUE
+calico,240 cm,90 kg,blue,FALSE
+brown,281 cm,248 kg,blue,TRUE
+red,203 cm,185 kg,blue,TRUE
+grey,267 cm,264 kg,brown,TRUE
+grey,262 cm,74 kg,black,FALSE
+dark grey,268 cm,279 kg,black,TRUE
+grey,228 cm,99 kg,brown,FALSE
+grey,287 cm,286 kg,blue,TRUE
+red,188 cm,179 kg,brown,FALSE
+grey,252 cm,141 kg,black,FALSE
+calico,260 cm,231 kg,blue,TRUE
+calico,276 cm,211 kg,black,TRUE
+red,252 cm,119 kg,brown,FALSE
+dark grey,269 cm,244 kg,blue,TRUE
+brown,253 cm,188 kg,green,TRUE
+brown,245 cm,85 kg,brown,FALSE
+white,235 cm,70 kg,black,TRUE
+red,235 cm,195 kg,black,TRUE
+dark grey,198 cm,112 kg,green,FALSE
+grey,192 cm,111 kg,black,FALSE
+brown,233 cm,226 kg,blue,TRUE
+orange,161 cm,130 kg,green,FALSE
+calico,222 cm,67 kg,green,FALSE
+dark grey,180 cm,61 kg,blue,FALSE
+brown,164 cm,277 kg,green,TRUE
+orange,251 cm,195 kg,blue,TRUE
+orange,172 cm,192 kg,brown,TRUE
+red,270 cm,143 kg,green,FALSE
+grey,239 cm,85 kg,brown,FALSE
+white,195 cm,87 kg,blue,TRUE
+dark grey,168 cm,148 kg,green,FALSE
+grey,232 cm,103 kg,black,FALSE
+calico,272 cm,171 kg,brown,TRUE
+orange,193 cm,222 kg,brown,TRUE
+red,277 cm,186 kg,green,TRUE
+calico,217 cm,137 kg,brown,FALSE
+orange,195 cm,64 kg,blue,FALSE
+orange,288 cm,280 kg,blue,TRUE
+brown,275 cm,255 kg,green,TRUE
+calico,259 cm,213 kg,black,TRUE
+dark grey,279 cm,117 kg,blue,TRUE
+grey,201 cm,223 kg,brown,TRUE
+dark grey,166 cm,85 kg,black,FALSE
+white,258 cm,173 kg,brown,TRUE
+red,166 cm,277 kg,blue,TRUE
+calico,225 cm,274 kg,blue,TRUE
+brown,202 cm,151 kg,black,FALSE
+grey,234 cm,72 kg,blue,FALSE
+grey,205 cm,117 kg,black,FALSE
+calico,248 cm,290 kg,brown,TRUE
+grey,168 cm,94 kg,brown,FALSE
+red,215 cm,199 kg,blue,TRUE
+brown,202 cm,110 kg,blue,FALSE
+white,203 cm,229 kg,blue,TRUE
+calico,234 cm,200 kg,blue,TRUE
+calico,187 cm,125 kg,brown,FALSE
+orange,270 cm,106 kg,brown,FALSE
+orange,186 cm,270 kg,green,TRUE
+red,164 cm,262 kg,brown,TRUE
+dark grey,288 cm,196 kg,black,TRUE
+calico,244 cm,227 kg,green,TRUE
+dark grey,170 cm,77 kg,brown,FALSE
+dark grey,172 cm,290 kg,blue,TRUE
+orange,230 cm,70 kg,blue,FALSE
+red,256 cm,216 kg,green,TRUE
+dark grey,253 cm,131 kg,blue,FALSE
+dark grey,257 cm,233 kg,green,TRUE
+orange,257 cm,236 kg,brown,TRUE
+white,193 cm,203 kg,green,TRUE
+orange,232 cm,81 kg,black,FALSE
+brown,174 cm,88 kg,brown,FALSE
+grey,245 cm,244 kg,black,TRUE
+grey,209 cm,173 kg,brown,FALSE
+dark grey,172 cm,232 kg,black,TRUE
+red,172 cm,128 kg,brown,FALSE
+white,200 cm,213 kg,green,TRUE
+calico,232 cm,116 kg,black,FALSE
+grey,207 cm,199 kg,black,TRUE
+grey,235 cm,67 kg,black,FALSE
+white,239 cm,70 kg,green,TRUE
+orange,167 cm,197 kg,green,TRUE
+orange,197 cm,214 kg,brown,TRUE
+brown,162 cm,241 kg,blue,TRUE
+white,175 cm,62 kg,blue,TRUE
+white,187 cm,108 kg,blue,TRUE
+orange,231 cm,107 kg,green,FALSE
+calico,209 cm,138 kg,black,FALSE
+calico,175 cm,285 kg,blue,TRUE
+red,259 cm,210 kg,blue,TRUE
+orange,225 cm,98 kg,brown,FALSE
+red,264 cm,91 kg,brown,FALSE
+calico,274 cm,197 kg,green,TRUE
+calico,188 cm,230 kg,green,TRUE
+white,240 cm,206 kg,brown,TRUE
+grey,238 cm,166 kg,blue,FALSE
+brown,231 cm,273 kg,green,TRUE
+brown,217 cm,181 kg,black,TRUE
+red,231 cm,112 kg,black,FALSE
+dark grey,223 cm,150 kg,brown,FALSE
+red,190 cm,228 kg,green,TRUE
+brown,235 cm,171 kg,brown,FALSE
+orange,164 cm,139 kg,blue,FALSE
+white,227 cm,108 kg,blue,TRUE
+grey,217 cm,174 kg,black,FALSE
+dark grey,217 cm,90 kg,brown,FALSE
+grey,200 cm,116 kg,black,FALSE
+white,184 cm,182 kg,blue,TRUE
+calico,236 cm,142 kg,brown,FALSE
+grey,247 cm,177 kg,blue,FALSE
+white,187 cm,62 kg,brown,TRUE
+grey,170 cm,88 kg,blue,FALSE
+calico,269 cm,159 kg,green,FALSE
+red,271 cm,231 kg,brown,TRUE
+grey,259 cm,261 kg,green,TRUE
+calico,165 cm,179 kg,blue,FALSE
+white,281 cm,196 kg,black,TRUE
+red,238 cm,158 kg,green,FALSE
+white,194 cm,148 kg,black,TRUE
+calico,272 cm,114 kg,green,TRUE
+dark grey,199 cm,65 kg,green,FALSE
+grey,176 cm,107 kg,blue,FALSE
+orange,256 cm,202 kg,black,TRUE
+red,177 cm,65 kg,black,FALSE
+red,178 cm,165 kg,blue,FALSE
+red,205 cm,206 kg,green,TRUE
+grey,249 cm,99 kg,brown,FALSE
+red,274 cm,148 kg,black,TRUE
+orange,222 cm,80 kg,black,FALSE
+brown,171 cm,114 kg,black,FALSE
+dark grey,191 cm,91 kg,brown,FALSE
+brown,239 cm,224 kg,black,TRUE
+grey,191 cm,131 kg,blue,FALSE
+white,179 cm,263 kg,green,TRUE
+grey,216 cm,192 kg,black,TRUE
+orange,168 cm,252 kg,blue,TRUE
+red,161 cm,168 kg,black,FALSE
+grey,251 cm,158 kg,black,FALSE
+calico,180 cm,61 kg,brown,FALSE
+orange,206 cm,178 kg,brown,FALSE
+grey,160 cm,287 kg,black,TRUE
+red,162 cm,245 kg,blue,TRUE
+red,168 cm,284 kg,brown,TRUE
+calico,274 cm,270 kg,blue,TRUE
+red,179 cm,220 kg,brown,TRUE
+calico,269 cm,269 kg,green,TRUE
+grey,234 cm,247 kg,black,TRUE
+red,261 cm,255 kg,blue,TRUE
+brown,181 cm,160 kg,brown,FALSE
+orange,184 cm,280 kg,blue,TRUE
+dark grey,200 cm,166 kg,blue,FALSE
+dark grey,262 cm,263 kg,black,TRUE
+white,198 cm,289 kg,blue,TRUE
+brown,160 cm,125 kg,brown,FALSE
+grey,167 cm,224 kg,blue,TRUE
+orange,179 cm,274 kg,green,TRUE
+orange,213 cm,200 kg,black,TRUE
+orange,277 cm,282 kg,blue,TRUE
+white,190 cm,209 kg,blue,TRUE
+calico,166 cm,142 kg,black,FALSE
+red,225 cm,207 kg,brown,TRUE
+white,195 cm,270 kg,brown,TRUE
+grey,250 cm,212 kg,blue,TRUE
+calico,182 cm,261 kg,green,TRUE
+calico,216 cm,62 kg,black,FALSE
+brown,269 cm,63 kg,brown,FALSE
+red,262 cm,89 kg,blue,FALSE
+white,247 cm,203 kg,blue,TRUE
+calico,260 cm,71 kg,brown,FALSE
+grey,172 cm,247 kg,blue,TRUE
+calico,279 cm,188 kg,brown,TRUE
+white,230 cm,268 kg,brown,TRUE
+orange,229 cm,78 kg,green,FALSE
+brown,176 cm,235 kg,green,TRUE
+dark grey,161 cm,268 kg,brown,TRUE
+red,167 cm,128 kg,green,FALSE
+dark grey,242 cm,74 kg,black,FALSE
+calico,256 cm,262 kg,blue,TRUE
+white,209 cm,105 kg,brown,TRUE
+grey,185 cm,181 kg,green,TRUE
+brown,242 cm,263 kg,blue,TRUE
+calico,219 cm,127 kg,green,FALSE
+calico,239 cm,272 kg,brown,TRUE
+brown,289 cm,222 kg,black,TRUE
+brown,271 cm,190 kg,blue,TRUE
+dark grey,260 cm,132 kg,blue,FALSE
+grey,238 cm,114 kg,brown,FALSE
+orange,210 cm,225 kg,black,TRUE
+dark grey,260 cm,188 kg,green,TRUE
+brown,162 cm,170 kg,green,FALSE
+orange,272 cm,214 kg,green,TRUE
+orange,243 cm,169 kg,blue,FALSE
+calico,237 cm,130 kg,blue,FALSE
+white,279 cm,151 kg,brown,TRUE
+dark grey,212 cm,118 kg,brown,FALSE
+calico,177 cm,159 kg,brown,FALSE
+grey,161 cm,187 kg,green,TRUE
+grey,237 cm,242 kg,black,TRUE
+orange,230 cm,137 kg,brown,FALSE
+orange,208 cm,112 kg,green,FALSE
+orange,238 cm,250 kg,black,TRUE
+grey,268 cm,190 kg,black,TRUE
+dark grey,253 cm,164 kg,brown,FALSE
+grey,231 cm,227 kg,green,TRUE
+orange,251 cm,245 kg,green,TRUE
+red,279 cm,181 kg,blue,TRUE
+dark grey,255 cm,152 kg,green,FALSE
+grey,273 cm,186 kg,green,TRUE
+orange,286 cm,135 kg,brown,TRUE
+red,244 cm,183 kg,green,TRUE
+white,277 cm,103 kg,brown,TRUE
+white,265 cm,197 kg,green,TRUE
+orange,231 cm,137 kg,brown,FALSE
+orange,284 cm,220 kg,black,TRUE
+brown,169 cm,213 kg,blue,TRUE
+orange,286 cm,250 kg,green,TRUE
+orange,237 cm,155 kg,green,FALSE
+calico,240 cm,193 kg,brown,TRUE
+brown,277 cm,109 kg,green,TRUE
+white,243 cm,227 kg,black,TRUE
+orange,272 cm,210 kg,green,TRUE
+dark grey,246 cm,162 kg,black,FALSE
+brown,214 cm,225 kg,blue,TRUE
+white,221 cm,238 kg,blue,TRUE
+orange,176 cm,213 kg,black,TRUE
+brown,289 cm,223 kg,black,TRUE
+calico,163 cm,117 kg,blue,FALSE
+grey,286 cm,177 kg,black,TRUE
+orange,192 cm,115 kg,blue,FALSE
+calico,212 cm,145 kg,green,FALSE
+orange,188 cm,160 kg,blue,FALSE
+white,172 cm,225 kg,blue,TRUE
+orange,263 cm,206 kg,blue,TRUE
+grey,166 cm,186 kg,blue,TRUE
+calico,288 cm,188 kg,blue,TRUE
+orange,194 cm,171 kg,brown,FALSE
+dark grey,181 cm,152 kg,brown,FALSE
+calico,288 cm,239 kg,green,TRUE
+red,227 cm,152 kg,black,FALSE
+dark grey,206 cm,248 kg,brown,TRUE
+grey,248 cm,159 kg,green,FALSE
+white,224 cm,219 kg,brown,TRUE
+white,181 cm,143 kg,black,TRUE
+red,194 cm,222 kg,black,TRUE
+calico,200 cm,247 kg,black,TRUE
+dark grey,254 cm,233 kg,green,TRUE
+grey,215 cm,235 kg,green,TRUE
+brown,193 cm,109 kg,green,FALSE
+dark grey,214 cm,163 kg,black,FALSE
+orange,246 cm,195 kg,blue,TRUE
+red,245 cm,212 kg,green,TRUE
+brown,256 cm,235 kg,green,TRUE
+calico,275 cm,173 kg,black,TRUE
+red,278 cm,175 kg,green,TRUE
+orange,160 cm,143 kg,blue,FALSE
+brown,247 cm,202 kg,green,TRUE
+calico,183 cm,240 kg,blue,TRUE
+calico,217 cm,237 kg,green,TRUE
+brown,289 cm,223 kg,brown,TRUE
+orange,235 cm,246 kg,green,TRUE
+red,188 cm,238 kg,blue,TRUE
+orange,216 cm,106 kg,green,FALSE
+brown,287 cm,113 kg,brown,TRUE
+orange,207 cm,202 kg,green,TRUE
+brown,175 cm,240 kg,blue,TRUE
+red,216 cm,229 kg,brown,TRUE
+dark grey,229 cm,154 kg,green,FALSE
+red,231 cm,168 kg,black,FALSE
+calico,276 cm,171 kg,green,TRUE
+white,232 cm,179 kg,green,TRUE
+orange,195 cm,247 kg,green,TRUE
+orange,185 cm,199 kg,black,TRUE
+red,232 cm,169 kg,black,FALSE
+dark grey,217 cm,199 kg,black,TRUE
+white,193 cm,112 kg,blue,TRUE
+brown,216 cm,177 kg,green,FALSE
+white,258 cm,128 kg,green,TRUE
+white,274 cm,165 kg,black,TRUE
+white,269 cm,235 kg,green,TRUE
+red,271 cm,101 kg,brown,TRUE
+calico,229 cm,161 kg,black,FALSE
+brown,212 cm,245 kg,brown,TRUE
+grey,201 cm,247 kg,green,TRUE
+white,175 cm,114 kg,brown,TRUE
+red,266 cm,135 kg,blue,FALSE
+grey,228 cm,117 kg,green,FALSE
+orange,243 cm,173 kg,blue,FALSE
+grey,202 cm,181 kg,blue,TRUE
+dark grey,263 cm,222 kg,black,TRUE
+dark grey,242 cm,108 kg,brown,FALSE
+brown,171 cm,219 kg,green,TRUE
+orange,182 cm,177 kg,blue,FALSE
+calico,210 cm,228 kg,black,TRUE
+white,231 cm,161 kg,blue,TRUE
+orange,256 cm,103 kg,green,FALSE
+orange,283 cm,168 kg,brown,TRUE
+red,230 cm,136 kg,blue,FALSE
+grey,200 cm,250 kg,brown,TRUE
+calico,234 cm,184 kg,green,TRUE
+orange,185 cm,102 kg,green,FALSE
+grey,266 cm,183 kg,blue,TRUE
+white,195 cm,165 kg,blue,TRUE
+orange,266 cm,128 kg,brown,FALSE
+grey,256 cm,241 kg,black,TRUE
+dark grey,222 cm,158 kg,black,FALSE
+red,162 cm,202 kg,green,TRUE
+orange,251 cm,203 kg,green,TRUE
+brown,237 cm,237 kg,brown,TRUE
+calico,218 cm,163 kg,black,FALSE
+grey,288 cm,205 kg,green,TRUE
+grey,284 cm,219 kg,green,TRUE
+brown,259 cm,221 kg,green,TRUE
+orange,216 cm,185 kg,black,TRUE
+grey,234 cm,188 kg,blue,TRUE
+brown,238 cm,186 kg,brown,TRUE
+red,225 cm,141 kg,black,FALSE
+red,258 cm,184 kg,green,TRUE
+orange,257 cm,201 kg,blue,TRUE
+red,202 cm,113 kg,blue,FALSE
+brown,171 cm,196 kg,blue,TRUE
+red,268 cm,124 kg,black,FALSE
+calico,267 cm,229 kg,black,TRUE
+calico,222 cm,151 kg,black,FALSE
+orange,282 cm,249 kg,green,TRUE
+white,240 cm,211 kg,green,TRUE
+red,275 cm,127 kg,brown,TRUE
+calico,215 cm,118 kg,black,FALSE
+dark grey,202 cm,140 kg,blue,FALSE
+orange,264 cm,202 kg,brown,TRUE
+dark grey,246 cm,182 kg,blue,TRUE
+red,221 cm,187 kg,green,TRUE
+orange,260 cm,112 kg,green,FALSE
+brown,253 cm,239 kg,blue,TRUE
+brown,277 cm,236 kg,brown,TRUE
+grey,168 cm,145 kg,black,FALSE
+brown,199 cm,116 kg,green,FALSE
+grey,217 cm,132 kg,blue,FALSE
+grey,236 cm,191 kg,green,TRUE
+calico,240 cm,210 kg,brown,TRUE
+red,179 cm,210 kg,brown,TRUE
+white,284 cm,214 kg,green,TRUE
+white,162 cm,182 kg,brown,TRUE
+orange,234 cm,150 kg,green,FALSE
+white,243 cm,166 kg,brown,TRUE
+orange,211 cm,225 kg,green,TRUE
+grey,200 cm,137 kg,blue,FALSE
+dark grey,196 cm,197 kg,green,TRUE
+brown,271 cm,136 kg,green,TRUE
+dark grey,267 cm,249 kg,green,TRUE
+red,190 cm,170 kg,black,FALSE
+orange,178 cm,121 kg,brown,FALSE
+orange,215 cm,227 kg,black,TRUE
+orange,216 cm,244 kg,green,TRUE
+red,203 cm,146 kg,blue,FALSE
+dark grey,221 cm,234 kg,green,TRUE
+grey,180 cm,203 kg,blue,TRUE
+red,175 cm,240 kg,blue,TRUE
+brown,188 cm,144 kg,green,FALSE
+dark grey,230 cm,152 kg,black,FALSE
+calico,188 cm,134 kg,green,FALSE
+calico,234 cm,204 kg,brown,TRUE
+brown,203 cm,231 kg,green,TRUE
+brown,201 cm,121 kg,black,FALSE
+calico,285 cm,247 kg,blue,TRUE
+brown,203 cm,243 kg,green,TRUE
+red,219 cm,226 kg,brown,TRUE
+grey,166 cm,244 kg,green,TRUE
+white,229 cm,225 kg,black,TRUE
+brown,285 cm,117 kg,green,TRUE
+grey,275 cm,155 kg,blue,TRUE
+grey,268 cm,115 kg,green,FALSE
+orange,231 cm,200 kg,green,TRUE
+orange,208 cm,195 kg,brown,TRUE
+white,179 cm,191 kg,blue,TRUE
+grey,194 cm,188 kg,brown,TRUE
+brown,279 cm,132 kg,blue,TRUE
+calico,163 cm,201 kg,green,TRUE
+orange,167 cm,231 kg,brown,TRUE
+white,196 cm,213 kg,black,TRUE
+orange,281 cm,224 kg,green,TRUE
+red,288 cm,122 kg,brown,TRUE
+brown,276 cm,158 kg,black,TRUE
+dark grey,176 cm,159 kg,green,FALSE
+brown,201 cm,158 kg,green,FALSE
+grey,256 cm,127 kg,black,FALSE
+grey,177 cm,238 kg,black,TRUE
+red,244 cm,227 kg,black,TRUE
+grey,179 cm,101 kg,green,FALSE
+brown,181 cm,212 kg,blue,TRUE
+orange,247 cm,219 kg,green,TRUE
+brown,166 cm,169 kg,blue,FALSE
+white,272 cm,202 kg,green,TRUE
+orange,184 cm,125 kg,black,FALSE
+orange,245 cm,142 kg,black,FALSE
+calico,241 cm,122 kg,green,FALSE
+white,287 cm,221 kg,black,TRUE
+brown,171 cm,107 kg,blue,FALSE
+orange,224 cm,215 kg,brown,TRUE
+calico,216 cm,211 kg,blue,TRUE
+dark grey,202 cm,194 kg,brown,TRUE
+white,247 cm,106 kg,brown,TRUE
+brown,285 cm,198 kg,black,TRUE
+orange,243 cm,110 kg,brown,FALSE
+orange,219 cm,163 kg,brown,FALSE
+white,176 cm,117 kg,green,TRUE
+red,219 cm,119 kg,green,FALSE
+dark grey,231 cm,206 kg,black,TRUE
+orange,234 cm,167 kg,brown,FALSE
+orange,210 cm,199 kg,green,TRUE
+brown,225 cm,249 kg,blue,TRUE
+white,182 cm,136 kg,brown,TRUE
+red,239 cm,103 kg,brown,FALSE
+orange,165 cm,188 kg,green,TRUE
+orange,235 cm,225 kg,brown,TRUE
+brown,204 cm,172 kg,black,FALSE
+orange,163 cm,239 kg,blue,TRUE
+red,264 cm,103 kg,green,FALSE
+dark grey,280 cm,211 kg,brown,TRUE
+brown,207 cm,193 kg,blue,TRUE
+dark grey,256 cm,158 kg,brown,FALSE
+red,244 cm,210 kg,brown,TRUE
+white,168 cm,154 kg,blue,TRUE
+orange,165 cm,214 kg,green,TRUE
+calico,241 cm,192 kg,brown,TRUE
+red,289 cm,135 kg,black,TRUE
+calico,231 cm,205 kg,brown,TRUE
+orange,235 cm,141 kg,brown,FALSE
+red,289 cm,211 kg,green,TRUE
+brown,217 cm,153 kg,green,FALSE
+orange,166 cm,202 kg,brown,TRUE
+red,190 cm,146 kg,brown,FALSE
+dark grey,215 cm,160 kg,black,FALSE
+red,172 cm,159 kg,green,FALSE
+orange,160 cm,147 kg,brown,FALSE
+calico,244 cm,198 kg,green,TRUE
+orange,166 cm,103 kg,brown,FALSE
+red,227 cm,116 kg,blue,FALSE
+grey,164 cm,234 kg,green,TRUE
+orange,161 cm,160 kg,green,FALSE
+orange,288 cm,219 kg,blue,TRUE
+orange,276 cm,120 kg,black,TRUE
+red,264 cm,170 kg,green,FALSE
+orange,284 cm,244 kg,blue,TRUE
+white,266 cm,186 kg,black,TRUE
+orange,216 cm,199 kg,green,TRUE
+orange,191 cm,162 kg,blue,FALSE
+white,266 cm,168 kg,black,TRUE
+orange,233 cm,198 kg,green,TRUE
+red,244 cm,191 kg,green,TRUE
+red,275 cm,110 kg,black,TRUE
+white,290 cm,230 kg,green,TRUE
+red,218 cm,144 kg,brown,FALSE
+calico,202 cm,144 kg,green,FALSE
+orange,182 cm,115 kg,blue,FALSE
+dark grey,170 cm,163 kg,green,FALSE
+calico,269 cm,155 kg,blue,FALSE
+dark grey,227 cm,151 kg,brown,FALSE
+grey,282 cm,102 kg,green,TRUE
+red,198 cm,239 kg,green,TRUE
+brown,218 cm,104 kg,brown,FALSE
+calico,269 cm,115 kg,black,FALSE
+brown,184 cm,177 kg,black,FALSE
+grey,225 cm,236 kg,black,TRUE
+red,245 cm,215 kg,blue,TRUE
+brown,205 cm,129 kg,blue,FALSE
+white,185 cm,177 kg,green,TRUE
+orange,199 cm,108 kg,green,FALSE
+white,172 cm,156 kg,black,TRUE
+brown,243 cm,241 kg,blue,TRUE
+dark grey,220 cm,182 kg,blue,TRUE
+orange,208 cm,183 kg,green,TRUE
+grey,168 cm,103 kg,green,FALSE
+dark grey,171 cm,234 kg,green,TRUE
+white,176 cm,176 kg,black,TRUE
+orange,259 cm,147 kg,green,FALSE
+calico,276 cm,233 kg,brown,TRUE
+red,167 cm,190 kg,brown,TRUE
+red,191 cm,118 kg,green,FALSE
+white,200 cm,246 kg,blue,TRUE
+red,246 cm,152 kg,green,FALSE
+orange,214 cm,239 kg,brown,TRUE
+orange,232 cm,204 kg,black,TRUE
+dark grey,217 cm,163 kg,black,FALSE
+calico,250 cm,193 kg,brown,TRUE
+brown,169 cm,141 kg,brown,FALSE
+grey,178 cm,212 kg,green,TRUE
+calico,220 cm,236 kg,green,TRUE
+orange,273 cm,102 kg,green,TRUE
+grey,273 cm,146 kg,brown,TRUE
+dark grey,224 cm,224 kg,black,TRUE
+grey,205 cm,141 kg,green,FALSE
+orange,211 cm,242 kg,green,TRUE
+orange,190 cm,172 kg,blue,FALSE
+orange,192 cm,130 kg,brown,FALSE
+orange,290 cm,153 kg,green,TRUE
+red,258 cm,140 kg,green,FALSE
+red,173 cm,221 kg,green,TRUE
+orange,195 cm,202 kg,green,TRUE
+dark grey,173 cm,205 kg,brown,TRUE
+grey,221 cm,224 kg,green,TRUE
+orange,191 cm,129 kg,brown,FALSE
+dark grey,247 cm,129 kg,green,FALSE
+orange,271 cm,224 kg,green,TRUE
+orange,285 cm,101 kg,green,TRUE
+red,224 cm,228 kg,green,TRUE
+red,166 cm,230 kg,green,TRUE
+dark grey,191 cm,174 kg,brown,FALSE
+orange,275 cm,182 kg,black,TRUE
+red,203 cm,241 kg,black,TRUE
+orange,286 cm,179 kg,green,TRUE
+orange,239 cm,110 kg,green,FALSE
+orange,281 cm,211 kg,blue,TRUE
+white,234 cm,240 kg,black,TRUE
+brown,184 cm,180 kg,blue,FALSE
+grey,226 cm,210 kg,green,TRUE
+red,210 cm,178 kg,blue,FALSE
+red,213 cm,111 kg,green,FALSE
+orange,225 cm,168 kg,green,FALSE
+orange,250 cm,209 kg,green,TRUE
+calico,167 cm,191 kg,black,TRUE
+orange,274 cm,161 kg,green,TRUE
+dark grey,276 cm,243 kg,blue,TRUE
+red,190 cm,153 kg,green,FALSE
+orange,282 cm,149 kg,green,TRUE
+brown,168 cm,199 kg,black,TRUE
+orange,208 cm,223 kg,brown,TRUE
+white,253 cm,206 kg,brown,TRUE
+brown,184 cm,200 kg,green,TRUE
+brown,168 cm,153 kg,green,FALSE
+orange,278 cm,144 kg,brown,TRUE
+red,227 cm,216 kg,green,TRUE
+dark grey,284 cm,148 kg,green,TRUE
+white,253 cm,156 kg,green,TRUE
+red,263 cm,113 kg,brown,FALSE
+white,286 cm,250 kg,green,TRUE
+white,281 cm,211 kg,green,TRUE
+calico,283 cm,234 kg,green,TRUE
+brown,218 cm,146 kg,green,FALSE
+dark grey,249 cm,221 kg,black,TRUE
+brown,284 cm,133 kg,green,TRUE
+red,281 cm,175 kg,black,TRUE
+orange,257 cm,163 kg,green,FALSE
+calico,195 cm,182 kg,brown,TRUE
+orange,238 cm,158 kg,black,FALSE
+calico,180 cm,118 kg,blue,FALSE
+dark grey,234 cm,150 kg,green,FALSE
+brown,211 cm,185 kg,brown,TRUE
+brown,228 cm,165 kg,blue,FALSE
+grey,286 cm,118 kg,brown,TRUE
+orange,165 cm,221 kg,green,TRUE
+red,239 cm,222 kg,blue,TRUE
+orange,231 cm,129 kg,black,FALSE
+dark grey,224 cm,144 kg,black,FALSE
+white,274 cm,192 kg,blue,TRUE
+red,187 cm,187 kg,brown,TRUE
+orange,163 cm,115 kg,green,FALSE
+brown,283 cm,232 kg,green,TRUE
+grey,278 cm,155 kg,blue,TRUE
+orange,181 cm,117 kg,green,FALSE
+white,193 cm,120 kg,brown,TRUE
+dark grey,251 cm,210 kg,brown,TRUE
+brown,218 cm,105 kg,brown,FALSE
+orange,278 cm,217 kg,blue,TRUE
+orange,284 cm,239 kg,blue,TRUE
+red,221 cm,135 kg,brown,FALSE
+brown,208 cm,176 kg,green,FALSE
+calico,231 cm,195 kg,blue,TRUE
+grey,286 cm,227 kg,green,TRUE
+dark grey,219 cm,133 kg,black,FALSE
+red,230 cm,223 kg,blue,TRUE
+orange,209 cm,149 kg,black,FALSE
+orange,222 cm,160 kg,blue,FALSE
+dark grey,208 cm,245 kg,blue,TRUE
+dark grey,189 cm,178 kg,green,FALSE
+brown,186 cm,148 kg,blue,FALSE
+orange,278 cm,191 kg,green,TRUE
+red,181 cm,196 kg,green,TRUE
+grey,289 cm,112 kg,brown,TRUE
+white,196 cm,111 kg,black,TRUE
+dark grey,267 cm,114 kg,green,FALSE
+brown,236 cm,245 kg,brown,TRUE
+red,210 cm,137 kg,green,FALSE
+white,227 cm,233 kg,blue,TRUE
+grey,215 cm,189 kg,blue,TRUE
+white,219 cm,126 kg,green,TRUE
+calico,162 cm,240 kg,black,TRUE
+calico,226 cm,166 kg,black,FALSE
+brown,190 cm,108 kg,brown,FALSE
+brown,224 cm,230 kg,black,TRUE
+orange,208 cm,107 kg,blue,FALSE
+dark grey,170 cm,101 kg,black,FALSE
+dark grey,206 cm,217 kg,black,TRUE
+grey,222 cm,249 kg,brown,TRUE
+dark grey,270 cm,101 kg,blue,FALSE
+orange,236 cm,224 kg,black,TRUE
+brown,219 cm,116 kg,green,FALSE
+dark grey,201 cm,221 kg,blue,TRUE
+calico,187 cm,194 kg,blue,TRUE
+white,259 cm,205 kg,brown,TRUE
+orange,251 cm,181 kg,green,TRUE
+red,206 cm,227 kg,brown,TRUE
+grey,234 cm,250 kg,green,TRUE
+brown,211 cm,198 kg,black,TRUE
+brown,172 cm,136 kg,green,FALSE
+dark grey,279 cm,227 kg,blue,TRUE
+dark grey,222 cm,108 kg,green,FALSE
+orange,257 cm,163 kg,blue,FALSE
+red,206 cm,209 kg,green,TRUE
+orange,246 cm,179 kg,black,FALSE
+orange,228 cm,161 kg,green,FALSE
+dark grey,244 cm,129 kg,blue,FALSE
+dark grey,187 cm,167 kg,green,FALSE
+red,249 cm,162 kg,green,FALSE
+dark grey,232 cm,124 kg,black,FALSE
+calico,287 cm,250 kg,brown,TRUE
+grey,215 cm,237 kg,green,TRUE
+white,192 cm,162 kg,blue,TRUE
+calico,217 cm,144 kg,black,FALSE
+orange,281 cm,135 kg,green,TRUE
+brown,200 cm,156 kg,black,FALSE
+calico,284 cm,121 kg,black,TRUE
+white,233 cm,154 kg,green,TRUE
+grey,275 cm,155 kg,green,TRUE
+red,171 cm,137 kg,green,FALSE
+orange,176 cm,140 kg,green,FALSE
+calico,212 cm,121 kg,blue,FALSE
+orange,236 cm,114 kg,black,FALSE
+dark grey,173 cm,216 kg,brown,TRUE
+white,233 cm,221 kg,brown,TRUE
+calico,234 cm,119 kg,green,FALSE
+white,241 cm,216 kg,brown,TRUE
+orange,271 cm,237 kg,brown,TRUE
+orange,274 cm,143 kg,brown,TRUE
+calico,283 cm,142 kg,black,TRUE
+orange,255 cm,111 kg,green,FALSE
+dark grey,220 cm,233 kg,blue,TRUE
+dark grey,257 cm,200 kg,black,TRUE
+brown,212 cm,238 kg,black,TRUE
+orange,239 cm,196 kg,brown,TRUE
+red,224 cm,171 kg,blue,FALSE
+orange,260 cm,103 kg,brown,FALSE
+orange,276 cm,229 kg,green,TRUE
+calico,188 cm,195 kg,green,TRUE
+calico,265 cm,141 kg,green,FALSE
+red,203 cm,146 kg,blue,FALSE
+brown,216 cm,178 kg,brown,FALSE
+red,206 cm,136 kg,brown,FALSE
+white,270 cm,163 kg,brown,TRUE
+calico,282 cm,173 kg,black,TRUE
+red,248 cm,203 kg,black,TRUE
+red,244 cm,174 kg,green,FALSE
+orange,191 cm,198 kg,brown,TRUE
+white,249 cm,151 kg,green,TRUE
+orange,261 cm,233 kg,brown,TRUE
+dark grey,226 cm,246 kg,brown,TRUE
+orange,277 cm,189 kg,green,TRUE
+orange,236 cm,180 kg,green,FALSE
+orange,227 cm,188 kg,blue,TRUE
+orange,190 cm,163 kg,brown,FALSE
+orange,215 cm,186 kg,green,TRUE
+brown,277 cm,190 kg,green,TRUE
+orange,264 cm,105 kg,brown,FALSE
+orange,172 cm,103 kg,green,FALSE
+red,244 cm,146 kg,black,FALSE
+orange,220 cm,148 kg,brown,FALSE
+orange,200 cm,212 kg,brown,TRUE
+grey,261 cm,125 kg,brown,FALSE
+orange,202 cm,171 kg,green,FALSE
+brown,285 cm,234 kg,green,TRUE
+grey,238 cm,167 kg,brown,FALSE
+calico,200 cm,130 kg,brown,FALSE
+orange,203 cm,234 kg,green,TRUE
+red,176 cm,154 kg,brown,FALSE
+orange,236 cm,169 kg,blue,FALSE
+grey,251 cm,204 kg,brown,TRUE
+calico,190 cm,126 kg,brown,FALSE
+grey,253 cm,204 kg,green,TRUE
+calico,251 cm,113 kg,blue,FALSE
+dark grey,164 cm,147 kg,blue,FALSE
+red,289 cm,147 kg,green,TRUE
+orange,258 cm,138 kg,green,FALSE
+orange,264 cm,183 kg,green,TRUE
+calico,182 cm,174 kg,green,FALSE
+dark grey,247 cm,154 kg,green,FALSE
+white,279 cm,183 kg,brown,TRUE
+orange,196 cm,131 kg,black,FALSE
+red,228 cm,203 kg,black,TRUE
+brown,232 cm,145 kg,brown,FALSE
+red,206 cm,182 kg,brown,TRUE
+calico,197 cm,220 kg,blue,TRUE
+brown,240 cm,128 kg,black,FALSE
+calico,184 cm,227 kg,blue,TRUE
+dark grey,280 cm,236 kg,green,TRUE
+dark grey,232 cm,162 kg,green,FALSE
+orange,259 cm,122 kg,green,FALSE
+red,182 cm,124 kg,green,FALSE
+white,188 cm,248 kg,green,TRUE
+orange,286 cm,174 kg,brown,TRUE
+orange,228 cm,110 kg,brown,FALSE
+white,214 cm,152 kg,blue,TRUE
+calico,219 cm,240 kg,blue,TRUE
+grey,222 cm,116 kg,blue,FALSE
+brown,167 cm,188 kg,black,TRUE
+calico,199 cm,180 kg,blue,FALSE
+grey,191 cm,106 kg,green,FALSE
+dark grey,182 cm,181 kg,brown,TRUE
+calico,256 cm,219 kg,brown,TRUE
+red,290 cm,121 kg,brown,TRUE
+white,174 cm,116 kg,brown,TRUE
+dark grey,212 cm,119 kg,blue,FALSE
+orange,216 cm,219 kg,green,TRUE
+red,252 cm,208 kg,green,TRUE
+brown,161 cm,200 kg,blue,TRUE
+red,246 cm,222 kg,green,TRUE
+brown,160 cm,243 kg,brown,TRUE
+dark grey,258 cm,153 kg,black,FALSE
+grey,171 cm,100 kg,blue,FALSE
+white,160 cm,222 kg,black,TRUE
+calico,223 cm,178 kg,blue,FALSE
+dark grey,236 cm,161 kg,green,FALSE
+white,256 cm,184 kg,green,TRUE
+orange,280 cm,136 kg,green,TRUE
+red,183 cm,158 kg,black,FALSE
+dark grey,265 cm,208 kg,green,TRUE
+orange,218 cm,105 kg,brown,FALSE
+orange,223 cm,245 kg,black,TRUE
+orange,216 cm,162 kg,black,FALSE
+calico,188 cm,144 kg,green,FALSE
+grey,217 cm,211 kg,blue,TRUE
+grey,177 cm,120 kg,green,FALSE
+orange,233 cm,235 kg,green,TRUE
+brown,227 cm,194 kg,blue,TRUE
+orange,189 cm,120 kg,green,FALSE
+grey,161 cm,191 kg,green,TRUE
+brown,288 cm,207 kg,black,TRUE
+calico,182 cm,135 kg,green,FALSE
+white,220 cm,195 kg,green,TRUE
+orange,166 cm,149 kg,brown,FALSE
+orange,169 cm,144 kg,green,FALSE
+grey,194 cm,234 kg,green,TRUE
+orange,207 cm,107 kg,green,FALSE
+dark grey,233 cm,104 kg,green,FALSE
+brown,282 cm,176 kg,blue,TRUE
+red,222 cm,227 kg,brown,TRUE
+white,267 cm,156 kg,brown,TRUE
+brown,242 cm,235 kg,green,TRUE
+red,278 cm,205 kg,green,TRUE
+brown,281 cm,201 kg,green,TRUE
+brown,251 cm,181 kg,green,TRUE
+red,202 cm,207 kg,black,TRUE
+orange,216 cm,141 kg,blue,FALSE
+red,259 cm,232 kg,green,TRUE
+white,180 cm,221 kg,green,TRUE
+brown,223 cm,139 kg,black,FALSE
+orange,277 cm,141 kg,green,TRUE
+dark grey,221 cm,204 kg,blue,TRUE
+orange,177 cm,163 kg,green,FALSE
+grey,276 cm,250 kg,green,TRUE
+white,215 cm,141 kg,brown,TRUE
+orange,196 cm,222 kg,brown,TRUE
+grey,225 cm,233 kg,brown,TRUE
+grey,258 cm,205 kg,blue,TRUE
+white,249 cm,125 kg,green,TRUE
+brown,276 cm,207 kg,black,TRUE
+calico,217 cm,233 kg,green,TRUE
+orange,211 cm,164 kg,black,FALSE
+orange,203 cm,189 kg,green,TRUE
+grey,197 cm,136 kg,green,FALSE
+orange,289 cm,238 kg,green,TRUE
+brown,164 cm,100 kg,green,FALSE
+orange,250 cm,158 kg,green,FALSE
+brown,252 cm,159 kg,green,FALSE
+brown,285 cm,190 kg,black,TRUE
+brown,275 cm,133 kg,black,TRUE
+dark grey,176 cm,232 kg,brown,TRUE
+brown,216 cm,134 kg,green,FALSE
+grey,247 cm,227 kg,green,TRUE
+dark grey,230 cm,139 kg,black,FALSE
+brown,165 cm,132 kg,green,FALSE
+grey,168 cm,249 kg,black,TRUE
+brown,247 cm,188 kg,green,TRUE
+grey,194 cm,188 kg,brown,TRUE
+grey,259 cm,167 kg,green,FALSE
+orange,230 cm,123 kg,green,FALSE
+red,206 cm,147 kg,green,FALSE
+orange,234 cm,182 kg,brown,TRUE
+brown,193 cm,171 kg,blue,FALSE
+brown,207 cm,188 kg,brown,TRUE
+grey,163 cm,129 kg,green,FALSE
+orange,237 cm,112 kg,green,FALSE
+orange,167 cm,243 kg,green,TRUE
+red,242 cm,250 kg,blue,TRUE
+dark grey,272 cm,172 kg,black,TRUE
+calico,234 cm,175 kg,black,FALSE
+calico,203 cm,152 kg,green,FALSE
+orange,207 cm,211 kg,blue,TRUE
+calico,194 cm,230 kg,green,TRUE
+orange,204 cm,229 kg,brown,TRUE
+brown,283 cm,250 kg,green,TRUE
+dark grey,214 cm,208 kg,green,TRUE
+orange,285 cm,120 kg,blue,TRUE
+brown,210 cm,143 kg,green,FALSE
+orange,224 cm,173 kg,green,FALSE
+orange,284 cm,129 kg,blue,TRUE
+calico,193 cm,238 kg,black,TRUE
+white,270 cm,155 kg,green,TRUE
+white,220 cm,242 kg,green,TRUE
+red,283 cm,159 kg,green,TRUE
+red,196 cm,227 kg,green,TRUE
+brown,174 cm,214 kg,black,TRUE
+grey,260 cm,217 kg,black,TRUE
+dark grey,195 cm,222 kg,blue,TRUE
+orange,288 cm,221 kg,green,TRUE
+dark grey,223 cm,230 kg,blue,TRUE
+brown,205 cm,213 kg,blue,TRUE
+orange,263 cm,158 kg,green,FALSE
+calico,279 cm,238 kg,blue,TRUE
+orange,178 cm,229 kg,brown,TRUE
+grey,235 cm,225 kg,brown,TRUE
+brown,280 cm,237 kg,black,TRUE
+orange,255 cm,177 kg,black,FALSE
+calico,233 cm,159 kg,green,FALSE
+orange,180 cm,152 kg,green,FALSE
+calico,211 cm,243 kg,green,TRUE
+brown,273 cm,112 kg,green,TRUE
+white,252 cm,205 kg,green,TRUE
+calico,176 cm,139 kg,green,FALSE
+dark grey,169 cm,211 kg,brown,TRUE
+calico,241 cm,137 kg,brown,FALSE
+orange,278 cm,154 kg,black,TRUE
+white,160 cm,148 kg,brown,TRUE
+calico,179 cm,147 kg,blue,FALSE
+grey,252 cm,203 kg,green,TRUE
+grey,254 cm,114 kg,green,FALSE
+dark grey,190 cm,240 kg,green,TRUE
+white,249 cm,141 kg,green,TRUE
+red,195 cm,140 kg,black,FALSE
+brown,231 cm,250 kg,black,TRUE
+orange,221 cm,243 kg,green,TRUE
+dark grey,232 cm,215 kg,green,TRUE
+orange,270 cm,156 kg,green,FALSE
+white,230 cm,210 kg,green,TRUE
+dark grey,175 cm,184 kg,brown,TRUE
+calico,246 cm,168 kg,black,FALSE
+orange,279 cm,231 kg,green,TRUE
+calico,227 cm,101 kg,black,FALSE
+calico,252 cm,122 kg,green,FALSE
+grey,213 cm,165 kg,green,FALSE
+white,180 cm,157 kg,green,TRUE
+grey,246 cm,100 kg,brown,FALSE
+orange,226 cm,117 kg,brown,FALSE
+grey,264 cm,134 kg,brown,FALSE
+orange,206 cm,235 kg,green,TRUE
+calico,166 cm,202 kg,blue,TRUE
+grey,220 cm,204 kg,brown,TRUE
+brown,228 cm,128 kg,green,FALSE
+grey,226 cm,130 kg,blue,FALSE
+brown,231 cm,102 kg,green,FALSE
+brown,200 cm,233 kg,black,TRUE
+grey,164 cm,194 kg,green,TRUE
+orange,284 cm,132 kg,green,TRUE
+orange,164 cm,198 kg,green,TRUE
+orange,224 cm,243 kg,green,TRUE
+white,168 cm,153 kg,black,TRUE
+orange,212 cm,133 kg,blue,FALSE
+calico,230 cm,223 kg,brown,TRUE
+orange,203 cm,178 kg,brown,FALSE
+dark grey,253 cm,148 kg,green,FALSE
+grey,286 cm,134 kg,green,TRUE
+white,253 cm,157 kg,brown,TRUE
+calico,286 cm,100 kg,green,TRUE
+orange,171 cm,117 kg,blue,FALSE
+grey,219 cm,248 kg,green,TRUE
+calico,218 cm,200 kg,black,TRUE
+dark grey,281 cm,161 kg,green,TRUE
+red,163 cm,136 kg,black,FALSE
+grey,276 cm,177 kg,brown,TRUE
+red,210 cm,208 kg,green,TRUE
+brown,287 cm,140 kg,green,TRUE
+orange,271 cm,243 kg,green,TRUE
+white,208 cm,155 kg,green,TRUE
+brown,279 cm,176 kg,green,TRUE
+white,218 cm,227 kg,black,TRUE
+brown,175 cm,128 kg,blue,FALSE
+orange,287 cm,172 kg,blue,TRUE
+orange,199 cm,143 kg,green,FALSE
+grey,216 cm,185 kg,green,TRUE
+red,236 cm,148 kg,black,FALSE
+dark grey,185 cm,197 kg,green,TRUE
+calico,197 cm,174 kg,brown,FALSE
+grey,230 cm,188 kg,brown,TRUE
+orange,231 cm,185 kg,brown,TRUE
+red,288 cm,134 kg,green,TRUE
+calico,238 cm,232 kg,green,TRUE
+red,245 cm,218 kg,green,TRUE
+calico,237 cm,244 kg,blue,TRUE
+brown,214 cm,122 kg,green,FALSE
+calico,252 cm,240 kg,blue,TRUE
+orange,193 cm,126 kg,green,FALSE
+orange,250 cm,188 kg,blue,TRUE
+grey,230 cm,158 kg,green,FALSE
+brown,187 cm,179 kg,brown,FALSE
+calico,282 cm,124 kg,brown,TRUE
+red,184 cm,148 kg,black,FALSE
+grey,281 cm,206 kg,green,TRUE
+dark grey,257 cm,177 kg,green,FALSE
+orange,229 cm,199 kg,blue,TRUE
+orange,285 cm,224 kg,green,TRUE
+orange,224 cm,118 kg,green,FALSE
+dark grey,265 cm,219 kg,green,TRUE
+calico,193 cm,106 kg,green,FALSE
+brown,250 cm,129 kg,blue,FALSE
+orange,272 cm,127 kg,blue,TRUE
+calico,165 cm,183 kg,black,TRUE
+calico,223 cm,138 kg,blue,FALSE
+dark grey,279 cm,186 kg,blue,TRUE
+white,181 cm,226 kg,blue,TRUE
+orange,258 cm,241 kg,brown,TRUE
+red,167 cm,243 kg,green,TRUE
+grey,192 cm,103 kg,blue,FALSE
+dark grey,242 cm,179 kg,green,FALSE
+calico,167 cm,118 kg,blue,FALSE
+orange,288 cm,202 kg,brown,TRUE
+grey,166 cm,150 kg,green,FALSE
+dark grey,245 cm,152 kg,blue,FALSE
+orange,275 cm,184 kg,black,TRUE
+white,284 cm,195 kg,green,TRUE
+white,269 cm,171 kg,blue,TRUE
+grey,253 cm,151 kg,brown,FALSE
+red,187 cm,236 kg,brown,TRUE
+orange,265 cm,224 kg,green,TRUE
+grey,277 cm,113 kg,brown,TRUE
+red,169 cm,132 kg,black,FALSE
+grey,172 cm,111 kg,brown,FALSE
+white,283 cm,189 kg,green,TRUE
+brown,202 cm,147 kg,green,FALSE
+dark grey,195 cm,180 kg,black,FALSE
+orange,290 cm,112 kg,green,TRUE
+brown,288 cm,234 kg,black,TRUE
+calico,269 cm,221 kg,green,TRUE
+calico,277 cm,107 kg,green,TRUE
+grey,279 cm,236 kg,black,TRUE
+brown,212 cm,151 kg,green,FALSE
+brown,205 cm,122 kg,blue,FALSE
+orange,188 cm,167 kg,black,FALSE
+red,280 cm,192 kg,green,TRUE
+white,271 cm,126 kg,blue,TRUE
+calico,200 cm,147 kg,blue,FALSE
+brown,177 cm,132 kg,blue,FALSE
+orange,261 cm,214 kg,green,TRUE
+dark grey,200 cm,116 kg,black,FALSE
+brown,180 cm,244 kg,brown,TRUE
+white,161 cm,218 kg,blue,TRUE
+grey,173 cm,115 kg,green,FALSE
+white,180 cm,185 kg,blue,TRUE
+grey,198 cm,160 kg,green,FALSE
+orange,219 cm,146 kg,blue,FALSE
+red,257 cm,115 kg,blue,FALSE
+red,215 cm,173 kg,green,FALSE
+calico,169 cm,250 kg,green,TRUE
+orange,289 cm,139 kg,black,TRUE
+calico,246 cm,150 kg,black,FALSE
+brown,185 cm,229 kg,green,TRUE
+calico,170 cm,162 kg,green,FALSE
+white,191 cm,147 kg,blue,TRUE
+white,171 cm,225 kg,brown,TRUE
+dark grey,165 cm,232 kg,brown,TRUE
+calico,246 cm,152 kg,green,FALSE
+white,279 cm,206 kg,black,TRUE
+orange,219 cm,241 kg,brown,TRUE
+calico,265 cm,112 kg,blue,FALSE
+red,178 cm,249 kg,black,TRUE
+grey,270 cm,159 kg,green,FALSE
+white,277 cm,143 kg,green,TRUE
+calico,168 cm,155 kg,green,FALSE
+red,282 cm,160 kg,brown,TRUE
+dark grey,235 cm,239 kg,black,TRUE
+dark grey,164 cm,134 kg,brown,FALSE
+grey,240 cm,214 kg,black,TRUE
+dark grey,170 cm,141 kg,blue,FALSE
+dark grey,226 cm,219 kg,black,TRUE
+red,268 cm,110 kg,blue,FALSE
+red,204 cm,123 kg,green,FALSE
+dark grey,259 cm,114 kg,black,FALSE
+white,288 cm,166 kg,blue,TRUE
+dark grey,216 cm,176 kg,green,FALSE
+orange,244 cm,179 kg,green,FALSE
+orange,248 cm,228 kg,blue,TRUE
+orange,218 cm,240 kg,black,TRUE
+white,274 cm,186 kg,green,TRUE
+brown,237 cm,248 kg,blue,TRUE
+orange,232 cm,170 kg,blue,FALSE
+orange,219 cm,234 kg,blue,TRUE
+dark grey,172 cm,119 kg,green,FALSE
+dark grey,164 cm,131 kg,black,FALSE
+red,289 cm,160 kg,brown,TRUE
+orange,260 cm,151 kg,brown,FALSE
+grey,264 cm,139 kg,green,FALSE
+orange,241 cm,104 kg,green,FALSE
+orange,267 cm,116 kg,blue,FALSE
+orange,211 cm,118 kg,green,FALSE
+grey,225 cm,210 kg,green,TRUE
+orange,269 cm,231 kg,brown,TRUE
+orange,245 cm,225 kg,brown,TRUE
+red,243 cm,185 kg,black,TRUE
+white,216 cm,188 kg,blue,TRUE
+orange,219 cm,107 kg,brown,FALSE
+white,205 cm,122 kg,brown,TRUE
+calico,199 cm,235 kg,green,TRUE
+dark grey,186 cm,231 kg,blue,TRUE
+brown,280 cm,111 kg,blue,TRUE
+orange,237 cm,183 kg,green,TRUE
+calico,231 cm,158 kg,green,FALSE
+orange,228 cm,112 kg,brown,FALSE
+calico,277 cm,134 kg,green,TRUE
+white,273 cm,223 kg,green,TRUE
+white,235 cm,150 kg,green,TRUE
+brown,224 cm,212 kg,brown,TRUE
+brown,246 cm,147 kg,black,FALSE
+calico,216 cm,195 kg,blue,TRUE
+dark grey,206 cm,131 kg,blue,FALSE
+orange,193 cm,168 kg,blue,FALSE
+grey,247 cm,203 kg,green,TRUE
+orange,290 cm,188 kg,black,TRUE
+brown,209 cm,113 kg,blue,FALSE
+grey,251 cm,154 kg,green,FALSE
+red,226 cm,195 kg,black,TRUE
+brown,266 cm,168 kg,green,FALSE
+white,187 cm,183 kg,brown,TRUE
+calico,192 cm,135 kg,blue,FALSE
+red,202 cm,149 kg,black,FALSE
+dark grey,287 cm,167 kg,brown,TRUE
+calico,265 cm,113 kg,green,FALSE
+orange,215 cm,226 kg,brown,TRUE
+red,278 cm,195 kg,green,TRUE
+white,269 cm,102 kg,green,TRUE
+white,266 cm,190 kg,blue,TRUE
+brown,180 cm,202 kg,green,TRUE
+red,286 cm,144 kg,blue,TRUE
+calico,164 cm,250 kg,green,TRUE
+brown,220 cm,208 kg,brown,TRUE
+orange,186 cm,250 kg,green,TRUE
+orange,213 cm,207 kg,brown,TRUE
+red,185 cm,143 kg,green,FALSE
+grey,205 cm,229 kg,green,TRUE
+brown,290 cm,208 kg,brown,TRUE
+brown,165 cm,108 kg,black,FALSE
+brown,196 cm,247 kg,blue,TRUE
+calico,261 cm,155 kg,blue,FALSE
+calico,217 cm,141 kg,brown,FALSE
+grey,194 cm,235 kg,brown,TRUE
+white,280 cm,232 kg,green,TRUE
+calico,201 cm,210 kg,green,TRUE
+orange,268 cm,150 kg,blue,FALSE
+grey,257 cm,148 kg,green,FALSE
+dark grey,190 cm,200 kg,black,TRUE
+brown,245 cm,177 kg,blue,FALSE
+dark grey,267 cm,122 kg,green,FALSE
+brown,249 cm,237 kg,black,TRUE
+orange,253 cm,225 kg,brown,TRUE
+dark grey,250 cm,140 kg,green,FALSE
+brown,202 cm,140 kg,green,FALSE
+brown,209 cm,200 kg,green,TRUE
+dark grey,210 cm,232 kg,brown,TRUE
+calico,222 cm,176 kg,green,FALSE
+red,220 cm,157 kg,blue,FALSE
+orange,171 cm,150 kg,brown,FALSE
+orange,258 cm,187 kg,green,TRUE
+white,264 cm,143 kg,green,TRUE
+white,185 cm,239 kg,black,TRUE
+orange,271 cm,124 kg,brown,TRUE
+red,213 cm,225 kg,green,TRUE
+brown,259 cm,250 kg,black,TRUE
+calico,261 cm,199 kg,blue,TRUE
+white,194 cm,243 kg,blue,TRUE
+white,283 cm,112 kg,green,TRUE
+grey,208 cm,206 kg,blue,TRUE
+red,161 cm,204 kg,blue,TRUE
+brown,242 cm,220 kg,green,TRUE
+calico,171 cm,127 kg,green,FALSE
+white,196 cm,237 kg,green,TRUE
+orange,202 cm,140 kg,green,FALSE
+white,231 cm,204 kg,blue,TRUE
+grey,223 cm,113 kg,black,FALSE
+orange,197 cm,138 kg,black,FALSE
+calico,170 cm,184 kg,green,TRUE
+orange,172 cm,125 kg,green,FALSE
+orange,211 cm,205 kg,blue,TRUE
+orange,244 cm,186 kg,green,TRUE
+red,170 cm,241 kg,brown,TRUE
+dark grey,253 cm,108 kg,green,FALSE
+dark grey,256 cm,100 kg,brown,FALSE
+orange,265 cm,163 kg,brown,FALSE
+red,238 cm,210 kg,brown,TRUE
+red,166 cm,249 kg,black,TRUE
+grey,227 cm,161 kg,green,FALSE
+red,173 cm,135 kg,brown,FALSE
+brown,235 cm,141 kg,brown,FALSE
+red,162 cm,226 kg,black,TRUE
+white,171 cm,136 kg,green,TRUE
+dark grey,187 cm,210 kg,green,TRUE
+dark grey,285 cm,121 kg,green,TRUE
+grey,228 cm,203 kg,green,TRUE
+dark grey,215 cm,189 kg,green,TRUE
+brown,283 cm,104 kg,green,TRUE
+orange,184 cm,240 kg,green,TRUE
+orange,188 cm,214 kg,black,TRUE
+dark grey,256 cm,173 kg,black,FALSE
+white,289 cm,123 kg,brown,TRUE
+white,267 cm,157 kg,blue,TRUE
+grey,189 cm,160 kg,blue,FALSE
+orange,264 cm,166 kg,black,FALSE
+grey,205 cm,162 kg,blue,FALSE
+dark grey,172 cm,170 kg,blue,FALSE
+brown,235 cm,141 kg,brown,FALSE
+calico,240 cm,184 kg,black,TRUE
+orange,262 cm,112 kg,brown,FALSE
+orange,248 cm,145 kg,blue,FALSE
+calico,245 cm,248 kg,green,TRUE
+orange,271 cm,136 kg,green,TRUE
+red,163 cm,159 kg,blue,FALSE
+grey,266 cm,166 kg,green,FALSE
+orange,251 cm,109 kg,green,FALSE
+orange,195 cm,200 kg,brown,TRUE
+red,270 cm,202 kg,black,TRUE
+grey,185 cm,189 kg,black,TRUE
+orange,209 cm,196 kg,blue,TRUE
+white,192 cm,236 kg,black,TRUE
+orange,214 cm,216 kg,green,TRUE
+orange,209 cm,135 kg,blue,FALSE
+grey,257 cm,232 kg,green,TRUE
+dark grey,259 cm,167 kg,blue,FALSE
+brown,222 cm,237 kg,black,TRUE
+orange,275 cm,109 kg,brown,TRUE
+white,186 cm,180 kg,brown,TRUE
+orange,229 cm,204 kg,green,TRUE
+dark grey,161 cm,210 kg,black,TRUE
+red,212 cm,236 kg,black,TRUE
+dark grey,195 cm,246 kg,green,TRUE
+grey,216 cm,154 kg,blue,FALSE
+calico,201 cm,149 kg,green,FALSE
+grey,253 cm,126 kg,black,FALSE
+orange,229 cm,223 kg,green,TRUE
+orange,213 cm,190 kg,black,TRUE
+grey,277 cm,193 kg,blue,TRUE
+dark grey,183 cm,136 kg,green,FALSE
+orange,242 cm,136 kg,blue,FALSE
+grey,222 cm,169 kg,green,FALSE
+grey,224 cm,225 kg,blue,TRUE
+orange,264 cm,178 kg,green,FALSE
+grey,204 cm,169 kg,green,FALSE
+grey,174 cm,188 kg,brown,TRUE
+orange,168 cm,145 kg,blue,FALSE
+white,250 cm,203 kg,blue,TRUE
+red,275 cm,194 kg,blue,TRUE
+calico,276 cm,212 kg,green,TRUE
+red,277 cm,126 kg,black,TRUE
+red,177 cm,246 kg,green,TRUE
+dark grey,168 cm,250 kg,blue,TRUE
+calico,214 cm,203 kg,brown,TRUE
+white,249 cm,237 kg,blue,TRUE
+grey,173 cm,160 kg,blue,FALSE
+orange,214 cm,221 kg,black,TRUE
+grey,211 cm,195 kg,black,TRUE
+brown,236 cm,199 kg,brown,TRUE
+calico,192 cm,170 kg,green,FALSE
+orange,215 cm,218 kg,blue,TRUE
+calico,173 cm,126 kg,black,FALSE
+brown,252 cm,215 kg,black,TRUE
+grey,160 cm,243 kg,green,TRUE
+calico,222 cm,239 kg,brown,TRUE
+grey,259 cm,164 kg,black,FALSE
+orange,268 cm,178 kg,brown,FALSE
+orange,267 cm,239 kg,green,TRUE
+orange,170 cm,141 kg,green,FALSE
+orange,261 cm,155 kg,black,FALSE
+calico,226 cm,106 kg,green,FALSE
+dark grey,234 cm,109 kg,green,FALSE
+white,285 cm,207 kg,black,TRUE
+grey,175 cm,107 kg,brown,FALSE
+brown,261 cm,173 kg,green,FALSE
+red,243 cm,124 kg,brown,FALSE
+orange,239 cm,129 kg,brown,FALSE
+dark grey,176 cm,181 kg,blue,TRUE
+red,206 cm,153 kg,blue,FALSE
+dark grey,225 cm,243 kg,brown,TRUE
